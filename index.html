@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Feed Factory</title>
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Генератор автообновляемых фидов</h1>
+    <p class="subtext">Одностраничник для GitHub Pages + GitHub Actions.</p>
+
+    <section class="card">
+      <h2>Настройка репозитория</h2>
+      <label>GitHub owner
+        <input id="owner" placeholder="lacriwo">
+      </label>
+      <label>GitHub repo
+        <input id="repo" placeholder="feed-factory">
+      </label>
+      <label>GitHub token (fine-grained, Contents: Read/Write)
+        <input id="token" type="password" placeholder="github_pat_...">
+      </label>
+      <p class="hint">Токен хранится только в текущем браузере (localStorage).</p>
+    </section>
+
+    <form id="project-form" class="card">
+      <h2>Новый проект</h2>
+      <label>1) Ссылка на фид из CRM
+        <input name="source_feed_url" type="url" required placeholder="https://api.example.com/feed.xml">
+      </label>
+
+      <label>2) Поля для корректировки (через запятую)
+        <input name="fields" required placeholder="url">
+      </label>
+
+      <label>3) Новое значение для этих полей
+        <input name="replacement_value" required placeholder="https://site.ru">
+      </label>
+
+      <label>4) Частота обновления
+        <select name="interval_hours" required>
+          <option value="3">Раз в 3 часа</option>
+          <option value="6">Раз в 6 часов</option>
+          <option value="12">Раз в 12 часов</option>
+          <option value="24">Раз в 24 часа</option>
+        </select>
+      </label>
+
+      <label>5) Название проекта в ссылке (slug)
+        <input name="slug" required pattern="[a-z0-9-]+" placeholder="verba">
+      </label>
+
+      <label>Человекочитаемое название
+        <input name="project_name" required placeholder="Verba Feed">
+      </label>
+
+      <button type="submit">Сохранить проект</button>
+      <p id="status" class="status"></p>
+    </form>
+
+    <section class="card">
+      <h2>Существующие проекты</h2>
+      <ul id="projects"></ul>
+    </section>
+  </main>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>
