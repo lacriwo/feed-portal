@@ -1,3 +1,15 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "project_name": "ligo_polyanka",
+      "slug": "polyanka",
+      "source_feed_url": "https://api.macroserver.ru/estate/export/yandex/OzA5_WiGLTOJUuUfZsa-aAnYrqeYWBlO7q97bDXLcTWdInddefntJn-Gx9oKQ2qDosqdi_K_c8t7HhEqgVzInjUi_sG_3P3HqxDZrIROtRuZqBKBbk-f9dJwUSIHZkZnW3SzJXh8MTc2ODk3Nzc3MHxlZGZkMQ/394-yandex.xml?feed_id=8705",
+      "fields": [
+        "url"
+      ],
+      "replacement_value": "https://ligo-polyanka.ru",
+      "interval_hours": 24,
+      "updated_at": "2026-04-17T16:46:45.685Z"
+    }
+  ]
 }
