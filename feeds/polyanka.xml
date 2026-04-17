@@ -1,0 +1,11338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  
+
+  <generation-date>2026-04-18T02:49:11+11:00</generation-date>
+  
+
+  <offer internal-id="7185771">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>57</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>21000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>62.37</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>13</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5416734/Xmrn2OL2iVZpF3wxNzMyMDc2MTkzfGI4MjQ0/planirovka_07_e3-1-62.37.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5416743/Xmrn2OL2iVFuF3wxNzMyMDc2NDE4fDliNGJj/planirovka_c_mebelyu_07_e3-1-62.37.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397866/Xmrn3-r3hlNrF3wxNzMxMjg0MzA0fGE0Yzcw/podezd_1._yetazh_13.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038670">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>256</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7990000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.15</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238850/Q0dLz1OUBXiJOXwxNjk2MjA5MzQ3fDU3ZjIw/planirovka_type-16-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4299466/Q0dLz1mVCXuPOXwxNjk3NTg3Njk5fDMzNWY3/podezd_3._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038488">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>74</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7990000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.08</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <kitchen-space>
+      <value>14.14</value>
+      <unit>кв.м</unit>
+    </kitchen-space>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>8</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238853/Q0dLz1OUBXiKOXwxNjk2MjA5MzYyfGJmNTM5/planirovka_type-9-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4296970/Q0dLz1maBHqJOXwxNjk3NTIwNzg4fDQ0M2Mx/podezd_1._yetazh_8.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743848">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>71</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13583500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>69.34</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388231/HMETA9bcKij3FHwxNzMwNTE5MTExfGQ2YTkx/planirovka_01_03k-69.34.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389913/HMETA9bdISr1FHwxNzMwNzg1MTk5fGE5OTFi/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185825">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>111</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397831/Xmrn3-r3hlZsF3wxNzMxMjgyNTg4fGYzM2Q4/planirovka_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397832/Xmrn3-r3hlZvF3wxNzMxMjgyNTk3fDA0ZTE3/planirovka_c_mebelyu_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397911/Xmrn3-r3h1RsF3wxNzMxMjg2OTc2fDViMGRl/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743874">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>97</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>10610000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>56.12</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388242/HMETA9bcKi_0FHwxNzMwNTIwMjE5fDllMzhj/planirovka_01_20k-2-56.12.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185790">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>76</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>23500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>72.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397712/Xmrn3-r3iVRvF3wxNzMxMjc4MDk0fDNiYWNi/planirovka_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397713/Xmrn3-r3iVRuF3wxNzMxMjc4MTAwfDQ4ZjNl/planirovka_c_mebelyu_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356131/Xmrn3-b2j1ZsF3wxNzI4ODYzNjI1fGJmNDhj/82.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/4919371/Xmrm1eL5jVJsF3wxNzIzMTgzMzI2fDUzNjRk/podezd_2._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038624">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>210</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>9600000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>53.8</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>12</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>черновая отделка</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238840/Q0dLz1OUBXmJOXwxNjk2MjA5MzA3fGY3YjZh/planirovka_type-13-52.9.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4299449/Q0dLz1mVCXmAOXwxNjk3NTg2NjkwfDcxZDI2/podezd_2._yetazh_12.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185737">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>23</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>11000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>35.6</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395543/Xmrn3-r1i1FuF3wxNzMxMDM2NzI4fDRiMmVj/planirovka_03_e2-1-35.6.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395544/Xmrn3-r1i1FpF3wxNzMxMDM2NzM0fDI5NWNl/planirovka_c_mebelyu_03_e2-1-35.6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397872/Xmrn3-r3hlJvF3wxNzMxMjg0NTI1fDc1YjRk/podezd_1._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185788">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>74</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>18000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>68.34</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397704/Xmrn3-r3iVVpF3wxNzMxMjc3OTY5fGZhYmNl/planirovka_12_e3-1-68.34.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397705/Xmrn3-r3iVVoF3wxNzMxMjc3OTc4fGE1Zjg3/planirovka_c_mebelyu_12_e3-1-68.34.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356134/Xmrn3-b2j1ZpF3wxNzI4ODYzODA3fDE5NWFl/95.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/4919371/Xmrm1eL5jVJsF3wxNzIzMTgzMzI2fDUzNjRk/podezd_2._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743892">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>115</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7800000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>35.05</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388260/HMETA9bcKi32FHwxNzMwNTIwNTAwfDQzZGRh/planirovka_8-1k-35.05.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743917">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>140</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>38.45</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388313/HMETA9bcKyr1FHwxNzMwNTIxNDI3fDU1Yjll/planirovka_4-1k-38.45.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185799">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>85</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>26000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>72.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397712/Xmrn3-r3iVRvF3wxNzMxMjc4MDk0fDNiYWNi/planirovka_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397713/Xmrn3-r3iVRuF3wxNzMxMjc4MTAwfDQ4ZjNl/planirovka_c_mebelyu_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356131/Xmrn3-b2j1ZsF3wxNzI4ODYzNjI1fGJmNDhj/82.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397894/Xmrn3-r3hlxpF3wxNzMxMjg2MDM5fGE5NmNk/podezd_2._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185736">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>22</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.49</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395539/Xmrn3-r1i1ZkF3wxNzMxMDM2NjU5fGVlOGQy/planirovka_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5399929/Xmrn3-r5h1dkF3wxNzMxMzc5NDgwfDA4NTMz/planirovka_c_mebelyu_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397872/Xmrn3-r3hlJvF3wxNzMxMjg0NTI1fDc1YjRk/podezd_1._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185731">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>17</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.49</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395539/Xmrn3-r1i1ZkF3wxNzMxMDM2NjU5fGVlOGQy/planirovka_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5399929/Xmrn3-r5h1dkF3wxNzMxMzc5NDgwfDA4NTMz/planirovka_c_mebelyu_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397875/Xmrn3-r3hlJoF3wxNzMxMjg0NTc0fDYwMWJj/podezd_1._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743864">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>87</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14183500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>86.99</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388306/HMETA9bcKyvwFHwxNzMwNTIxMzYzfDFjYmRi/planirovka_2_03k-86.99.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/6967907/HMEQCdjTISvxFHwxNzc0ODI2ODExfGVlYTZm/middlecut_0_0_0.jpeg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038458">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>44</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7990000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.08</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <studio>1</studio>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238853/Q0dLz1OUBXiKOXwxNjk2MjA5MzYyfGJmNTM5/planirovka_type-9-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4296967/Q0dLz1maBHuOOXwxNjk3NTIwNzY4fGY1YTFi/podezd_1._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743780">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>3</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12563500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.6</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>26.88</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>2</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388265/HMETA9bcKi3zFHwxNzMwNTIwNTk1fGMzNTdl/planirovka_03-2k-65.6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389795/HMETA9bdLyLzFHwxNzMwNzcxNTIwfGE2NjE1/podezd_1._yetazh_1.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743797">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>20</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12563500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>64.42</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>26.57</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388276/HMETA9bcKizwFHwxNzMwNTIwODA0fDZhMTQ3/planirovka_04-04-2k-64.42.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389797/HMETA9bdLyLxFHwxNzMwNzcxNTMyfDc2NTEw/podezd_1._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743805">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>28</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>64.31</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>26.51</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388278/HMETA9bcKiz-FHwxNzMwNTIwODI4fDhkMTU4/planirovka_04-4-2k-64.31.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389798/HMETA9bdLyL-FHwxNzMwNzcxNTQxfGU3MGEx/podezd_1._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743812">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>35</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12413500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>64.95</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>27.49</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388277/HMETA9bcKizxFHwxNzMwNTIwODEzfDhiZWU4/planirovka_04-2k-64.95.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389894/HMETA9bdICLyFHwxNzMwNzgzODc1fGViNDAx/podezd_2._yetazh_1.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743814">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>37</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.97</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>30.45</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>2</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5393238/HMETA9fXKij-FHwxNzMwOTUyNjc1fGYyNGVh/planirovka_06-2k-65.97.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389894/HMETA9bdICLyFHwxNzMwNzgzODc1fGViNDAx/podezd_2._yetazh_1.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743849">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>72</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13713500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>75.11</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388274/HMETA9bcKizyFHwxNzMwNTIwNzgyfGRjZTY1/planirovka_03_3k-75.11.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389914/HMETA9bdISryFHwxNzMwNzg1MjA2fDU2YTU0/podezd_3._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743852">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>75</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.37</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388303/HMETA9bcKyv1FHwxNzMwNTIxMzM1fGFiNmVi/planirovka_1_02k-65.37.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743857">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>80</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>63.94</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388241/HMETA9bcKi_3FHwxNzMwNTIwMjEwfDliZTA0/planirovka_01_20k-63.94.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389946/HMETA9bdIS_wFHwxNzMwNzg2ODY1fGMzYzM1/podezd_4._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743867">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>90</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12413500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>64.07</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388269/HMETA9bcKi3_FHwxNzMwNTIwNjI2fDU1OWNk/planirovka_03_03_2k-64.07.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5391031/HMETA9fVKCj3FHwxNzMwODY1NDA0fDM2Yzk4/podezd_5._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743877">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>100</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13483500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>69.57</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388246/HMETA9bcKi_wFHwxNzMwNTIwMjcxfDBiMzdh/planirovka_01_3k0-69.57.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5391197/HMETA9fVKSLxFHwxNzMwODY4NDk1fDQwNDFl/podezd_6._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743882">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>105</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13683500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>75.11</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388275/HMETA9bcKizzFHwxNzMwNTIwNzkzfDA4YzI2/planirovka_03_3k0-75.11.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5391199/HMETA9fVKSL_FHwxNzMwODY4NTAxfDlmYjhl/podezd_6._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743891">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>114</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.97</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388294/HMETA9bcKiLyFHwxNzMwNTIxMjIwfDczMDRi/planirovka_6-2k-65.97.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743898">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>121</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12413500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>64.36</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388315/HMETA9bcKyrzFHwxNzMwNTIxNDQ4fDU2OWVh/planirovka_5-1-2k-64.36.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5391226/HMETA9fVKinwFHwxNzMwODY5NzMwfDEwZGY1/podezd_7._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743919">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>142</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12463500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.6</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5395466/HMETA9fRLC3wFHwxNzMxMDIzNjYyfGNhMTUz/planirovka_01-12k-65.6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743921">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>144</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>38.22</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388299/HMETA9bcKiL_FHwxNzMwNTIxMjk5fDhkODVk/planirovka_5-3-1k-38.22.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038545">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>131</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7990000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.15</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238856/Q0dLz1OUBXiPOXwxNjk2MjA5Mzc1fDFmMmIw/planirovka_type-8-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4299440/Q0dLz1mVCXmJOXwxNjk3NTg2NjIyfGUxNTUy/podezd_2._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038546">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>132</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.15</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>черновая отделка</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238853/Q0dLz1OUBXiKOXwxNjk2MjA5MzYyfGJmNTM5/planirovka_type-9-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4299440/Q0dLz1mVCXmJOXwxNjk3NTg2NjIyfGUxNTUy/podezd_2._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038640">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>226</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7990000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.15</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238850/Q0dLz1OUBXiJOXwxNjk2MjA5MzQ3fDU3ZjIw/planirovka_type-16-40.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4299463/Q0dLz1mVCXuKOXwxNjk3NTg3NzEzfDM1ZjM2/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6038527">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:11+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:11+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Ново-Александровск</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Науки, 1/1</address>
+      
+
+      <apartment>113</apartment>
+      
+
+      <longitude>142.72039317329273</longitude>
+      
+
+      <latitude>47.03280809061891</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.15</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК «Верба»</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>12</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>13</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Городской оазис “Верба” расположен на севере Южно-Сахалинска, в безопасном, зеленом районе рядом с рекой Красносельская. Здесь утренняя свежесть и пение птиц разбудят вас по утрам. Упражнения во дворе зарядят энергией на весь день. Веселые прогулки с детьми или домашними животными наполнят жизнь радостью.
+
+Верба — первая предвестница весны и обновления. Оазис Верба — повод начать новую жизнь в окружении природы и близких людей. Жизнь без лишнего стресса и суеты.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/6014866/4238857/Q0dLz1OUBXiOOXwxNjk2MjA5Mzc5fDhjZDc0/planirovka_type-8-40.37.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4296974/Q0dLz1maBHqNOXwxNjk3NTIwODE0fGU3OWIy/podezd_1._yetazh_12.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230688/Q0dLz1OcC3WBOXwxNjk1Nzc1MjQ3fDBiNTY1/cam_verba_006.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230689/Q0dLz1OcC3WAOXwxNjk1Nzc1MjQ3fDRjODll/cam_verba_002.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/6014866/4230690/Q0dLz1OcC3SJOXwxNjk1Nzc1MjQ4fGE3ODgz/cam_verba_001_a.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185770">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>56</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>18000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>52.56</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>13</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397690/Xmrn3-r3iFxtF3wxNzMxMjc3NzA2fGVmYTZk/planirovka_06_e3-1-52.56.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397691/Xmrn3-r3iFxsF3wxNzMxMjc3NzE0fDdjZjc4/planirovka_c_mebelyu_06_e3-1-52.56.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397866/Xmrn3-r3hlNrF3wxNzMxMjg0MzA0fGE0Yzcw/podezd_1._yetazh_13.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185843">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>129</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.65</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397839/Xmrn3-r3hlZkF3wxNzMxMjgyNjkyfDMxZmJh/planirovka_39-e2-1-43.65.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397840/Xmrn3-r3hlFtF3wxNzMxMjgyNjk5fDZhNWU3/planirovka_c_mebelyu_39-e2-1-43.65.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397910/Xmrn3-r3h1RtF3wxNzMxMjg2OTY1fDYzZDIx/podezd_3._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185735">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>21</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>20000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>71.69</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395512/Xmrn3-r1i1RvF3wxNzMxMDM2MTQ1fDZjNmM2/planirovka_01_e3-1-71.69.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395511/Xmrn3-r1i1RsF3wxNzMxMDM2MTM1fDgzYTJj/planirovka_c_mebelyu_01_e3-1-71.69.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397872/Xmrn3-r3hlJvF3wxNzMxMjg0NTI1fDc1YjRk/podezd_1._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185827">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>113</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>12200000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.58</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397835/Xmrn3-r3hlZoF3wxNzMxMjgyNjQ1fDUzYmNl/planirovka_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397836/Xmrn3-r3hlZrF3wxNzMxMjgyNjUyfGVjMjU3/planirovka_c_mebelyu_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397911/Xmrn3-r3h1RsF3wxNzMxMjg2OTc2fDViMGRl/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185800">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>86</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>20000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>68.34</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>7</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397704/Xmrn3-r3iVVpF3wxNzMxMjc3OTY5fGZhYmNl/planirovka_12_e3-1-68.34.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397705/Xmrn3-r3iVVoF3wxNzMxMjc3OTc4fGE1Zjg3/planirovka_c_mebelyu_12_e3-1-68.34.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356134/Xmrn3-b2j1ZpF3wxNzI4ODYzODA3fDE5NWFl/95.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397889/Xmrn3-r3hl1kF3wxNzMxMjg1NjM4fDQzMDZk/podezd_2._yetazh_7.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185721">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>7</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.49</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5395539/Xmrn3-r1i1ZkF3wxNzMxMDM2NjU5fGVlOGQy/planirovka_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5399929/Xmrn3-r5h1dkF3wxNzMxMzc5NDgwfDA4NTMz/planirovka_c_mebelyu_02_e2-1-44.49.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397876/Xmrn3-r3hlJrF3wxNzMxMjg0NTkxfDYwNTMx/podezd_1._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185787">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>73</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>23000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>78.36</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397710/Xmrn3-r3iVRtF3wxNzMxMjc4MDY1fDRhY2Qw/planirovka_14_e3-1-78.36.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397711/Xmrn3-r3iVRsF3wxNzMxMjc4MDcyfGE5NDM2/planirovka_c_mebelyu_14_e3-1-78.36.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397899/Xmrn3-r3hlxkF3wxNzMxMjg2MzQwfDkyZmRl/podezd_2._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185792">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>78</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>50.4</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397714/Xmrn3-r3iVRpF3wxNzMxMjc4MTE2fDMyNDNl/planirovka_16_e2-1-50.4.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397716/Xmrn3-r3iVRrF3wxNzMxMjc4MTUzfGNmZjZj/planirovka_c_mebelyu_16_e2-1-50.4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397896/Xmrn3-r3hlxrF3wxNzMxMjg2MTUwfDQ4NWQ4/podezd_2._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185793">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>79</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>26800000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>72.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397712/Xmrn3-r3iVRvF3wxNzMxMjc4MDk0fDNiYWNi/planirovka_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397713/Xmrn3-r3iVRuF3wxNzMxMjc4MTAwfDQ4ZjNl/planirovka_c_mebelyu_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356131/Xmrn3-b2j1ZsF3wxNzI4ODYzNjI1fGJmNDhj/82.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397896/Xmrn3-r3hlxrF3wxNzMxMjg2MTUwfDQ4NWQ4/podezd_2._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185796">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>82</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>27400000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>72.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397712/Xmrn3-r3iVRvF3wxNzMxMjc4MDk0fDNiYWNi/planirovka_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397713/Xmrn3-r3iVRuF3wxNzMxMjc4MTAwfDQ4ZjNl/planirovka_c_mebelyu_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356131/Xmrn3-b2j1ZsF3wxNzI4ODYzNjI1fGJmNDhj/82.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397890/Xmrn3-r3hlxtF3wxNzMxMjg1NjQ2fDUzYzdj/podezd_2._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185802">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>88</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>27950000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>72.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>7</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397712/Xmrn3-r3iVRvF3wxNzMxMjc4MDk0fDNiYWNi/planirovka_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397713/Xmrn3-r3iVRuF3wxNzMxMjc4MTAwfDQ4ZjNl/planirovka_c_mebelyu_15_e3-1-72.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5356131/Xmrn3-b2j1ZsF3wxNzI4ODYzNjI1fGJmNDhj/82.jpg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397889/Xmrn3-r3hl1kF3wxNzMxMjg1NjM4fDQzMDZk/podezd_2._yetazh_7.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185813">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>99</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>25000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>75.63</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>11</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397733/Xmrn3-r3iVZuF3wxNzMxMjc4MzU4fDA4MDQ5/planirovka_25_e3-1-75.63.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397734/Xmrn3-r3iVZpF3wxNzMxMjc4MzcyfDY3OWNk/planirovka_c_mebelyu_25_e3-1-75.63.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397881/Xmrn3-r3hl1sF3wxNzMxMjg1MDEyfGY0NjIw/podezd_2._yetazh_11.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185818">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>104</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>16000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>56.6</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397739/Xmrn3-r3iVZkF3wxNzMxMjc4NDc4fDgyYTNi/planirovka_28-e2-2-56.6.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397740/Xmrn3-r3iVFtF3wxNzMxMjc4NDg3fDJiOGI1/planirovka_c_mebelyu_28-e2-2-56.6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397914/Xmrn3-r3h1RpF3wxNzMxMjg3MDM3fDI5MTYx/podezd_3._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185823">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>109</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>23000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>77.45</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397827/Xmrn3-r3hldqF3wxNzMxMjgyMzU3fDY2YTRh/planirovka_33-e3-2-77.45.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397828/Xmrn3-r3hldlF3wxNzMxMjgyMzY4fDVjNzVh/planirovka_c_mebelyu_33-e3-2-77.45.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397914/Xmrn3-r3h1RpF3wxNzMxMjg3MDM3fDI5MTYx/podezd_3._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185826">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>112</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.16</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397833/Xmrn3-r3hlZuF3wxNzMxMjgyNjIwfGQxOGI0/planirovka_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397834/Xmrn3-r3hlZpF3wxNzMxMjgyNjI5fDJjZjNj/planirovka_c_mebelyu_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397911/Xmrn3-r3h1RsF3wxNzMxMjg2OTc2fDViMGRl/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185829">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>115</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.65</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397839/Xmrn3-r3hlZkF3wxNzMxMjgyNjkyfDMxZmJh/planirovka_39-e2-1-43.65.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397840/Xmrn3-r3hlFtF3wxNzMxMjgyNjk5fDZhNWU3/planirovka_c_mebelyu_39-e2-1-43.65.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397911/Xmrn3-r3h1RsF3wxNzMxMjg2OTc2fDViMGRl/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185832">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>118</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15850000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397831/Xmrn3-r3hlZsF3wxNzMxMjgyNTg4fGYzM2Q4/planirovka_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397832/Xmrn3-r3hlZvF3wxNzMxMjgyNTk3fDA0ZTE3/planirovka_c_mebelyu_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397913/Xmrn3-r3h1RuF3wxNzMxMjg3MDEyfGZkNmYz/podezd_3._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185833">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>119</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14100000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.16</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397833/Xmrn3-r3hlZuF3wxNzMxMjgyNjIwfGQxOGI0/planirovka_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397834/Xmrn3-r3hlZpF3wxNzMxMjgyNjI5fDJjZjNj/planirovka_c_mebelyu_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397913/Xmrn3-r3h1RuF3wxNzMxMjg3MDEyfGZkNmYz/podezd_3._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185834">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>120</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.58</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397835/Xmrn3-r3hlZoF3wxNzMxMjgyNjQ1fDUzYmNl/planirovka_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397836/Xmrn3-r3hlZrF3wxNzMxMjgyNjUyfGVjMjU3/planirovka_c_mebelyu_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397913/Xmrn3-r3h1RuF3wxNzMxMjg3MDEyfGZkNmYz/podezd_3._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185837">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>123</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>25000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>76.65</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397841/Xmrn3-r3hlFsF3wxNzMxMjgyNzExfDhmNmVl/planirovka_40-e3-1-76.65.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397842/Xmrn3-r3hlFvF3wxNzMxMjgyNzE4fDg0ZWZj/planirovka_c_mebelyu_40-e3-1-76.65.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397913/Xmrn3-r3h1RuF3wxNzMxMjg3MDEyfGZkNmYz/podezd_3._yetazh_4.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185839">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>125</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15950000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397831/Xmrn3-r3hlZsF3wxNzMxMjgyNTg4fGYzM2Q4/planirovka_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397832/Xmrn3-r3hlZvF3wxNzMxMjgyNTk3fDA0ZTE3/planirovka_c_mebelyu_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397910/Xmrn3-r3h1RtF3wxNzMxMjg2OTY1fDYzZDIx/podezd_3._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185840">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>126</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15150000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.16</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397833/Xmrn3-r3hlZuF3wxNzMxMjgyNjIwfGQxOGI0/planirovka_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397834/Xmrn3-r3hlZpF3wxNzMxMjgyNjI5fDJjZjNj/planirovka_c_mebelyu_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397910/Xmrn3-r3h1RtF3wxNzMxMjg2OTY1fDYzZDIx/podezd_3._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185841">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-18T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>127</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14900000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.58</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397835/Xmrn3-r3hlZoF3wxNzMxMjgyNjQ1fDUzYmNl/planirovka_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397836/Xmrn3-r3hlZrF3wxNzMxMjgyNjUyfGVjMjU3/planirovka_c_mebelyu_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397910/Xmrn3-r3h1RtF3wxNzMxMjg2OTY1fDYzZDIx/podezd_3._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185845">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>131</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>39.54</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397843/Xmrn3-r3hlFuF3wxNzMxMjgyNzM2fDdjNmU5/planirovka_41-e2-1-39.54.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397844/Xmrn3-r3hlFpF3wxNzMxMjgyNzYxfDlmMjc2/planirovka_c_mebelyu_41-e2-1-39.54.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397910/Xmrn3-r3h1RtF3wxNzMxMjg2OTY1fDYzZDIx/podezd_3._yetazh_5.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185846">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>132</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>43.83</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397831/Xmrn3-r3hlZsF3wxNzMxMjgyNTg4fGYzM2Q4/planirovka_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397832/Xmrn3-r3hlZvF3wxNzMxMjgyNTk3fDA0ZTE3/planirovka_c_mebelyu_35-e2-1-43.83.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397912/Xmrn3-r3h1RvF3wxNzMxMjg3MDAzfDM0NDBl/podezd_3._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185847">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-15T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>133</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15200000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>44.16</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397833/Xmrn3-r3hlZuF3wxNzMxMjgyNjIwfGQxOGI0/planirovka_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397834/Xmrn3-r3hlZpF3wxNzMxMjgyNjI5fDJjZjNj/planirovka_c_mebelyu_36-e2-1-44.16.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397912/Xmrn3-r3h1RvF3wxNzMxMjg3MDAzfDM0NDBl/podezd_3._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185848">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-16T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>134</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>15100000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.58</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>6</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397835/Xmrn3-r3hlZoF3wxNzMxMjgyNjQ1fDUzYmNl/planirovka_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397836/Xmrn3-r3hlZrF3wxNzMxMjgyNjUyfGVjMjU3/planirovka_c_mebelyu_37-e2-1-42.59.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397912/Xmrn3-r3h1RvF3wxNzMxMjg3MDAzfDM0NDBl/podezd_3._yetazh_6.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7185862">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-14T02:49:12+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-17T02:49:12+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул Рождественская, 63</address>
+      
+
+      <apartment>148</apartment>
+      
+
+      <longitude>142.7378266434457</longitude>
+      
+
+      <latitude>46.95437443773612</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>88005000941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>27900000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>74.44</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <built-year>2027</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>8</floor>
+    
+
+    <ceiling-height>3.0000</ceiling-height>
+    
+
+    <open-plan>да</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>16</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>монолит</building-type>
+    
+
+    <description>Рождественская 63 ー Первый цифровой дом в сердце Южно-Сахалинска.
+
+Лобби гостиная с библиотекой.
+
+Консьерж -сервис 24/7
+
+Спортзал и терраса для резидентов.
+
+Приватный доступ и абсолютная безопасность.
+
+Лаунж-зоны для уединенного отдыха в тихом закрытом дворе.</description>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397847/Xmrn3-r3hlFqF3wxNzMxMjgyODA1fGQwZmI1/planirovka_43-e3-1-74.44.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/3269947/5397848/Xmrn3-r3hlFlF3wxNzMxMjgyODEzfGI1NjI4/planirovka_c_mebelyu_43-e3-1-74.44.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5397907/Xmrn3-r3h1VqF3wxNzMxMjg2OTI2fDJlODBl/podezd_3._yetazh_8.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352351/Xmrn3-byjVBsF3wxNzI4NTM4NjQzfGMwM2Y0/rakurs_1.2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/3269947/5352352/Xmrn3-byjVBvF3wxNzI4NTM4Njk1fDNiYzM1/rakurs_2.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+</realty-feed>

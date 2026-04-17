@@ -1,4 +1,11 @@
 {
-  "generated_at_utc": "2026-04-17T16:28:39.062191Z",
-  "projects": []
+  "generated_at_utc": "2026-04-17T16:46:56.749807Z",
+  "projects": [
+    {
+      "slug": "polyanka",
+      "project_name": "ligo_polyanka",
+      "interval_hours": 24,
+      "feed_path": "feeds/polyanka.xml"
+    }
+  ]
 }
