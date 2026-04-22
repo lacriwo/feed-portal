@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 import json
+import re
 import time
 import urllib.error
 import urllib.request
 import xml.dom.minidom as minidom
 import xml.etree.ElementTree as ET
+from xml.etree.ElementTree import ParseError
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -52,6 +54,20 @@ def local_name(tag: str) -> str:
         return tag.split("}", 1)[1]
     return tag
 
+def sanitize_xml(xml_bytes: bytes) -> bytes:
+    text = xml_bytes.decode("utf-8", errors="replace")
+
+    # Удаляем запрещенные control-символы XML 1.0
+    text = re.sub(r"[\x00-\x08\x0B\x0C\x0E-\x1F]", "", text)
+
+    # Экранируем "голые" '&' (кроме валидных entity)
+    text = re.sub(
+        r"&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9A-Fa-f]+;)",
+        "&amp;",
+        text,
+    )
+
+    return text.encode("utf-8")
 
 def should_refresh(slug: str, interval_hours: int, state: dict, now: datetime) -> bool:
     entry = state.get(slug)
