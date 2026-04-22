@@ -88,6 +88,7 @@ def should_refresh(slug: str, interval_hours: int, state: dict, now: datetime) -
 
 def build_patched_feed(project: dict) -> bytes:
     xml_data = fetch_xml_bytes(project["source_feed_url"])
+    xml_data = sanitize_xml(xml_data)
     root = ET.fromstring(xml_data)
 
     ns_uri = ""
@@ -118,18 +119,26 @@ def main() -> None:
         slug = project["slug"]
         interval = int(project["interval_hours"])
 
-        if not should_refresh(slug, interval, state, now):
-            print(f"Skip {slug}: not due yet")
+        try:
+            if not should_refresh(slug, interval, state, now):
+                print(f"Skip {slug}: not due yet")
+                continue
+
+            print(f"Refreshing {slug}...")
+            xml_bytes = build_patched_feed(project)
+            out_file = FEEDS_DIR / f"{slug}.xml"
+            with out_file.open("wb") as fh:
+                fh.write(xml_bytes)
+
+            state[slug] = {"last_refresh_utc": now.isoformat().replace("+00:00", "Z")}
+            updated.append(slug)
+
+        except ParseError as exc:
+            print(f"Parse error for {slug}: {exc}")
             continue
-
-        print(f"Refreshing {slug}...")
-        xml_bytes = build_patched_feed(project)
-        out_file = FEEDS_DIR / f"{slug}.xml"
-        with out_file.open("wb") as fh:
-            fh.write(xml_bytes)
-
-        state[slug] = {"last_refresh_utc": now.isoformat().replace("+00:00", "Z")}
-        updated.append(slug)
+        except Exception as exc:
+            print(f"Error for {slug}: {exc}")
+            continue
 
     save_json(STATE_FILE, state)
 
