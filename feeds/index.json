@@ -1,11 +1,23 @@
 {
-  "generated_at_utc": "2026-04-22T05:56:49.362594Z",
+  "generated_at_utc": "2026-04-22T06:18:22.690092Z",
   "projects": [
     {
       "slug": "polyanka",
       "project_name": "ligo_polyanka",
       "interval_hours": 24,
       "feed_path": "feeds/polyanka.xml"
+    },
+    {
+      "slug": "ligo_polyanka_new",
+      "project_name": "ligo_polyanka_new",
+      "interval_hours": 24,
+      "feed_path": "feeds/ligo_polyanka_new.xml"
+    },
+    {
+      "slug": "ligo_polyanka_new2",
+      "project_name": "ligo_polyanka_new2",
+      "interval_hours": 24,
+      "feed_path": "feeds/ligo_polyanka_new2.xml"
     }
   ]
 }
