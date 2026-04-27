@@ -43,6 +43,17 @@
       "replacement_value": "https://darszhivopisnyysad.rqch.ru/",
       "interval_hours": 24,
       "updated_at": "2026-04-27T13:15:25.138Z"
+    },
+    {
+      "project_name": "darsnasemiholmah_Feed",
+      "slug": "darsnasemiholmah.rqch.ru",
+      "source_feed_url": "https://api.macro.sbercrm.com/estate/export/yandex/jYiup3M_G7nIeIbSeRR07Fljam13x7KDTRi4xQ1bL-p-jJl6QSwGDJAaea9hDv3cErwfVpE1HZ5ioUAMAZa_sRBNJq0c_bzdiXsRIjhgBY621Iqe7Ik8IrM5OolMI8XY9SgbAvv0Xj18MTc2MzYyNDAxM3w5NTNkMQ/589-yandex.xml?feed_id=3714",
+      "fields": [
+        "url"
+      ],
+      "replacement_value": "https://darsnasemiholmah.rqch.ru/",
+      "interval_hours": 24,
+      "updated_at": "2026-04-27T13:17:54.798Z"
     }
   ]
 }
