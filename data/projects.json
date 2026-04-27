@@ -32,6 +32,17 @@
       "replacement_value": "https://ligo-polyanka.ru",
       "interval_hours": 24,
       "updated_at": "2026-04-22T06:06:20.823Z"
+    },
+    {
+      "project_name": "darszhivopisnyysad_Feed",
+      "slug": "darszhivopisnyysad",
+      "source_feed_url": "https://api.macro.sbercrm.com/estate/export/yandex/jYiup3M_G7nIeIbSeRR07Fljam13x7KDTRi4xQ1bL-p-jJl6QSwGDJAaea9hDv3cErwfVpE1HZ5ioUAMAZa_sRBNJq0c_bzdiXsRIjhgBY621Iqe7Ik8IrM5OolLI8XY9SgbAvv0Xj18MTc2NDIyODk2NHxjYWU2Yg/589-yandex.xml?feed_id=3728",
+      "fields": [
+        "url"
+      ],
+      "replacement_value": "https://darszhivopisnyysad.rqch.ru/",
+      "interval_hours": 24,
+      "updated_at": "2026-04-27T13:15:25.138Z"
     }
   ]
 }
