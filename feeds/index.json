@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-27T13:15:40.624047Z",
+  "generated_at_utc": "2026-04-27T13:18:07.914650Z",
   "projects": [
     {
       "slug": "polyanka",
@@ -24,6 +24,12 @@
       "project_name": "darszhivopisnyysad_Feed",
       "interval_hours": 24,
       "feed_path": "feeds/darszhivopisnyysad.xml"
+    },
+    {
+      "slug": "darsnasemiholmah.rqch.ru",
+      "project_name": "darsnasemiholmah_Feed",
+      "interval_hours": 24,
+      "feed_path": "feeds/darsnasemiholmah.rqch.ru.xml"
     }
   ]
 }
