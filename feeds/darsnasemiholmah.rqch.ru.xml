@@ -2,7 +2,7 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-04-27T23:17:54+10:00</generation-date>
+  <generation-date>2026-04-29T02:20:54+10:00</generation-date>
   
 
   <offer internal-id="7101272">
@@ -23,10 +23,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -199,10 +199,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -357,184 +357,6 @@
   
 
 
-  <offer internal-id="6641226">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darsnasemiholmah.rqch.ru/</url>
-    
-
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
-    
-
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>ул Совхозная, 2</address>
-      
-
-      <apartment>21605</apartment>
-      
-
-      <longitude>135.0961329057606</longitude>
-      
-
-      <latitude>48.54489099227799</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>4396861</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>25.45</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК «На семи холмах»</building-name>
-    
-
-    <yandex-building-id>3913461</yandex-building-id>
-    
-
-    <yandex-house-id>4077477</yandex-house-id>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <ready-quarter>4</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>16</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>17</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>ЖК «На семи холмах» — это продуманная городская среда в границах улиц Совхозная и Трёхгорная, где жилые дома и коммерческие пространства создают гармоничную атмосферу для жизни, работы и отдыха.
-
-Архитектурную концепцию разработало шведско-российское бюро Semrén &amp;amp; Månsson, известное по проекту ЖК «Живописный сад» в Хабаровске. Переменная этажность (10–24 этажа) формирует эстетичный городской пейзаж, обеспечивает разнообразие видов из окон и правильную инсоляцию помещений. Высота потолков на первых этажах увеличена для большего простора.
-
-Жители комплекса смогут наслаждаться благоустроенной территорией, где уютные дворы без машин станут местом для прогулок и отдыха. А рядом будет раскинут многофункциональный бульвар, идеально подходящий для активного образа жизни — здесь можно гулять, заниматься спортом или просто наслаждаться свежим воздухом. Для автомобилистов предусмотрено количество парковочных мест, превышающее стандарт, чтобы вопрос с парковкой больше не был проблемой.
-
-Одно из главных преимуществ комплекса — разнообразие планировок. Здесь найдётся идеальное пространство как для семей с детьми, которым важно зонирование и место для каждого члена семьи, так и для тех, кто ценит просторные студии или уютные однокомнатные квартиры.
-
-Доступны три опции отделки: предчистовая 18 000 ₽/м², чистовая 30 000 ₽/м². При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.
-
-Входные группы и общественные пространства спроектированы так, чтобы создавать ощущение уюта и эстетики с первых шагов в дом. Дизайнерские холлы, бесшумные скоростные лифты и кладовые для хранения вещей сделают жизнь в комплексе еще комфортнее.
-
-Жилой комплекс будет управляться собственной управляющей компанией, что гарантирует высокий уровень сервиса и удобство для всех жителей. Здесь запланированы мероприятия, направленные на развитие добрососедства, ведь «На семи холмах» — это не просто место, где живут люди, а настоящая городская среда, где хочется оставаться.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6641027/4060170/aFBmJs0GZIsz4nwxNzUxNDU4ODEzfDUyNGJi/planirovka_k1-27_39-2-25.45.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="7101448">
     
 
@@ -553,10 +375,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -729,10 +551,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -905,10 +727,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1081,10 +903,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1257,10 +1079,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1415,184 +1237,6 @@
   
 
 
-  <offer internal-id="6641102">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darsnasemiholmah.rqch.ru/</url>
-    
-
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
-    
-
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>ул Совхозная, 2</address>
-      
-
-      <apartment>11201</apartment>
-      
-
-      <longitude>135.0961329057606</longitude>
-      
-
-      <latitude>48.54489099227799</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>6669120</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>46.04</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК «На семи холмах»</building-name>
-    
-
-    <yandex-building-id>3913461</yandex-building-id>
-    
-
-    <yandex-house-id>4077477</yandex-house-id>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <ready-quarter>4</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>12</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>17</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>ЖК «На семи холмах» — это продуманная городская среда в границах улиц Совхозная и Трёхгорная, где жилые дома и коммерческие пространства создают гармоничную атмосферу для жизни, работы и отдыха.
-
-Архитектурную концепцию разработало шведско-российское бюро Semrén &amp;amp; Månsson, известное по проекту ЖК «Живописный сад» в Хабаровске. Переменная этажность (10–24 этажа) формирует эстетичный городской пейзаж, обеспечивает разнообразие видов из окон и правильную инсоляцию помещений. Высота потолков на первых этажах увеличена для большего простора.
-
-Жители комплекса смогут наслаждаться благоустроенной территорией, где уютные дворы без машин станут местом для прогулок и отдыха. А рядом будет раскинут многофункциональный бульвар, идеально подходящий для активного образа жизни — здесь можно гулять, заниматься спортом или просто наслаждаться свежим воздухом. Для автомобилистов предусмотрено количество парковочных мест, превышающее стандарт, чтобы вопрос с парковкой больше не был проблемой.
-
-Одно из главных преимуществ комплекса — разнообразие планировок. Здесь найдётся идеальное пространство как для семей с детьми, которым важно зонирование и место для каждого члена семьи, так и для тех, кто ценит просторные студии или уютные однокомнатные квартиры.
-
-Доступны три опции отделки: предчистовая 18 000 ₽/м², чистовая 30 000 ₽/м². При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.
-
-Входные группы и общественные пространства спроектированы так, чтобы создавать ощущение уюта и эстетики с первых шагов в дом. Дизайнерские холлы, бесшумные скоростные лифты и кладовые для хранения вещей сделают жизнь в комплексе еще комфортнее.
-
-Жилой комплекс будет управляться собственной управляющей компанией, что гарантирует высокий уровень сервиса и удобство для всех жителей. Здесь запланированы мероприятия, направленные на развитие добрососедства, ведь «На семи холмах» — это не просто место, где живут люди, а настоящая городская среда, где хочется оставаться.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6641027/4060176/aFBmJs0GZIs14nwxNzUxNDU4ODUxfDQ1NGNj/planirovka_k2-49_87-1-46.04.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="7101539">
     
 
@@ -1611,10 +1255,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1787,10 +1431,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1963,10 +1607,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2139,10 +1783,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2315,10 +1959,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2491,10 +2135,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2667,10 +2311,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2843,10 +2487,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3019,10 +2663,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3195,10 +2839,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3371,10 +3015,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3547,10 +3191,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3723,10 +3367,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3899,10 +3543,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4075,10 +3719,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4251,10 +3895,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4427,10 +4071,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4603,10 +4247,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4779,10 +4423,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4955,10 +4599,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5131,10 +4775,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5307,10 +4951,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5483,10 +5127,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5659,10 +5303,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5835,10 +5479,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6011,10 +5655,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6187,10 +5831,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6363,10 +6007,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6539,10 +6183,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6715,10 +6359,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6891,10 +6535,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7067,10 +6711,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7243,10 +6887,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7419,10 +7063,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7595,10 +7239,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7771,10 +7415,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7947,10 +7591,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8123,10 +7767,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8299,10 +7943,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8475,10 +8119,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8651,10 +8295,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8827,10 +8471,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9003,10 +8647,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9179,10 +8823,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9355,10 +8999,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9531,10 +9175,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9707,10 +9351,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9883,10 +9527,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10059,10 +9703,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10235,10 +9879,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10411,10 +10055,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10587,10 +10231,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10763,10 +10407,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10939,10 +10583,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11115,10 +10759,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11291,10 +10935,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11467,10 +11111,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11643,10 +11287,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11819,10 +11463,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11995,10 +11639,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12171,10 +11815,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12347,10 +11991,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12523,10 +12167,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12699,10 +12343,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12875,10 +12519,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13051,10 +12695,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13227,10 +12871,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13403,10 +13047,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13579,10 +13223,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13755,10 +13399,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13931,10 +13575,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:54+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:54+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14107,10 +13751,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14283,10 +13927,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14459,10 +14103,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14635,10 +14279,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14811,10 +14455,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14987,10 +14631,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15163,10 +14807,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15339,10 +14983,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15515,10 +15159,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15691,10 +15335,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15867,10 +15511,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16043,10 +15687,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16219,10 +15863,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16395,10 +16039,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16571,10 +16215,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16747,10 +16391,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16923,10 +16567,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17099,10 +16743,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17275,10 +16919,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17451,10 +17095,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17627,10 +17271,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17803,10 +17447,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17979,10 +17623,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18155,10 +17799,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18331,10 +17975,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18507,10 +18151,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18683,10 +18327,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18859,10 +18503,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19035,10 +18679,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19211,10 +18855,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19387,10 +19031,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19563,10 +19207,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19739,10 +19383,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19915,10 +19559,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20091,10 +19735,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20267,10 +19911,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20443,10 +20087,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20619,10 +20263,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20795,10 +20439,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20971,10 +20615,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21147,10 +20791,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21323,10 +20967,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21499,10 +21143,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21675,10 +21319,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21851,10 +21495,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22027,10 +21671,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22203,10 +21847,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22379,10 +22023,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22555,10 +22199,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22731,10 +22375,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22907,10 +22551,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:55+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:55+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23083,10 +22727,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23259,10 +22903,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23435,10 +23079,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23611,10 +23255,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23787,10 +23431,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23963,10 +23607,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24139,10 +23783,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24315,10 +23959,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24491,10 +24135,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24667,10 +24311,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24843,10 +24487,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25019,10 +24663,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25195,10 +24839,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25371,10 +25015,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25547,10 +25191,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25723,10 +25367,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25899,10 +25543,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26075,10 +25719,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26251,10 +25895,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26427,10 +26071,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26603,10 +26247,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26779,10 +26423,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26955,10 +26599,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27131,10 +26775,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27307,10 +26951,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27483,10 +27127,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27659,10 +27303,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27835,10 +27479,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28011,10 +27655,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28187,10 +27831,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28363,10 +28007,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28539,10 +28183,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28715,10 +28359,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28891,10 +28535,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29067,10 +28711,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29243,10 +28887,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29419,10 +29063,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29595,10 +29239,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29771,10 +29415,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29947,10 +29591,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30123,10 +29767,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30299,10 +29943,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30475,10 +30119,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30651,10 +30295,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30827,10 +30471,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31003,10 +30647,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31179,10 +30823,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31355,10 +30999,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31531,10 +31175,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31707,10 +31351,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31883,10 +31527,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32059,10 +31703,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32235,10 +31879,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32411,10 +32055,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32587,10 +32231,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32763,10 +32407,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32939,10 +32583,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33115,10 +32759,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33291,10 +32935,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33467,10 +33111,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33643,10 +33287,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33819,10 +33463,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33995,10 +33639,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34171,10 +33815,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34347,10 +33991,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34523,10 +34167,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34699,10 +34343,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34875,10 +34519,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35051,10 +34695,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35227,10 +34871,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35403,10 +35047,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35579,10 +35223,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35755,10 +35399,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35931,10 +35575,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36107,10 +35751,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36283,10 +35927,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36459,10 +36103,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36635,10 +36279,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36811,10 +36455,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36987,10 +36631,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37163,10 +36807,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37339,10 +36983,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37515,10 +37159,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37691,10 +37335,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37867,10 +37511,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38043,10 +37687,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38219,10 +37863,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38395,10 +38039,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38571,10 +38215,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38747,10 +38391,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38923,10 +38567,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39099,10 +38743,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39275,10 +38919,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39451,10 +39095,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39627,10 +39271,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39803,10 +39447,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39979,10 +39623,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40155,10 +39799,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40331,10 +39975,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40507,10 +40151,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40683,10 +40327,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40859,10 +40503,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41035,10 +40679,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41211,10 +40855,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41387,10 +41031,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41563,10 +41207,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41739,10 +41383,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:55+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:55+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41915,10 +41559,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42091,10 +41735,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42267,10 +41911,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42443,10 +42087,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42619,10 +42263,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42795,10 +42439,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42971,10 +42615,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43147,10 +42791,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43323,10 +42967,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43499,10 +43143,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43675,10 +43319,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43851,10 +43495,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44027,10 +43671,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44203,10 +43847,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44379,10 +44023,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44555,10 +44199,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44731,10 +44375,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44907,10 +44551,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45083,10 +44727,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45259,10 +44903,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45435,10 +45079,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45611,10 +45255,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45787,10 +45431,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45963,10 +45607,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46139,10 +45783,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46315,10 +45959,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46491,10 +46135,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:56+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:56+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46667,10 +46311,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46843,10 +46487,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47019,10 +46663,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47195,10 +46839,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47371,10 +47015,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47547,10 +47191,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47723,10 +47367,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47901,10 +47545,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48079,10 +47723,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-29T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48257,10 +47901,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48435,10 +48079,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48613,10 +48257,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-24T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48791,10 +48435,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48969,10 +48613,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49147,10 +48791,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-26T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49329,10 +48973,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-25T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-27T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-28T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49507,10 +49151,10 @@
     <url>https://darsnasemiholmah.rqch.ru/</url>
     
 
-    <creation-date>2026-04-23T23:17:57+10:00</creation-date>
+    <creation-date>2026-04-26T02:20:56+10:00</creation-date>
     
 
-    <last-update-date>2026-04-25T23:17:57+10:00</last-update-date>
+    <last-update-date>2026-04-27T02:20:56+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
