@@ -2,978 +2,8 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-04-28T11:09:38+11:00</generation-date>
+  <generation-date>2026-04-29T18:13:22+11:00</generation-date>
   
-
-  <offer internal-id="7743875">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-28T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>98</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8500000</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>42.51</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <window-view>на улицу</window-view>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388252/HMETA9bcKi70FHwxNzMwNTIwMzg3fDA0N2Fk/planirovka_02_10k-42.51.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="7743841">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>64</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8500000</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>42.51</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <window-view>на улицу</window-view>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388255/HMETA9bcKi7zFHwxNzMwNTIwNDM3fGQ1MzE2/planirovka_02_1k-42.51.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/5389910/HMETA9bdISr2FHwxNzMwNzg1MTQ2fDA5YTc2/podezd_3._yetazh_1.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="7743921">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>144</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8000000</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>38.22</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <window-view>во двор</window-view>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388299/HMETA9bcKiL_FHwxNzMwNTIxMjk5fDhkODVk/planirovka_5-3-1k-38.22.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="7247066">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5, корпус 1</address>
-      
-
-      <apartment>4</apartment>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>11000000</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>60.91</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>2</floor>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7247057/4845448/js493Vv4KxBCy3wxNzE5NDQ0NjgwfDgzYTM2/planirovka_type_1-60.91.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7247057/4845501/js493Vv4KhRLy3wxNzE5NDQ1NjU0fGRhZjMz/podezd_1._yetazh_2.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7247057/4824118/js493V35LhVCy3wxNzE4NjY4ODc3fDhkODMz/cam_88.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="7743848">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>71</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>13583500</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>69.34</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>3</floor>
-    
-
-    <window-view>на улицу</window-view>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388231/HMETA9bcKij3FHwxNzMwNTE5MTExfGQ2YTkx/planirovka_01_03k-69.34.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/5389913/HMETA9bdISr1FHwxNzMwNzg1MTk5fGE5OTFi/podezd_3._yetazh_3.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="7743864">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>87</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>14183500</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>86.99</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388306/HMETA9bcKyvwFHwxNzMwNTIxMzYzfDFjYmRi/planirovka_2_03k-86.99.jpg</image>
-     
-
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/6967907/HMEQCdjTISvxFHwxNzc0ODI2ODExfGVlYTZm/middlecut_0_0_0.jpeg.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
 
   <offer internal-id="7743780">
     
@@ -993,10 +23,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1164,10 +194,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1335,10 +365,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-27T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1506,10 +536,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1677,10 +707,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-27T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1830,6 +860,336 @@
   
 
 
+  <offer internal-id="7743841">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>64</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.51</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388255/HMETA9bcKi7zFHwxNzMwNTIwNDM3fGQ1MzE2/planirovka_02_1k-42.51.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389910/HMETA9bdISr2FHwxNzMwNzg1MTQ2fDA5YTc2/podezd_3._yetazh_1.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743848">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-27T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>71</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>13583500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>69.34</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388231/HMETA9bcKij3FHwxNzMwNTE5MTExfGQ2YTkx/planirovka_01_03k-69.34.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389913/HMETA9bdISr1FHwxNzMwNzg1MTk5fGE5OTFi/podezd_3._yetazh_3.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
   <offer internal-id="7743849">
     
 
@@ -1848,10 +1208,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2010,10 +1370,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2150,6 +1510,168 @@
   
 
 
+  <offer internal-id="7743864">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-27T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>87</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>14183500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>86.99</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388306/HMETA9bcKyvwFHwxNzMwNTIxMzYzfDFjYmRi/planirovka_2_03k-86.99.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/6967907/HMEQCdjTISvxFHwxNzc0ODI2ODExfGVlYTZm/middlecut_0_0_0.jpeg.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
   <offer internal-id="7743867">
     
 
@@ -2168,10 +1690,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2312,6 +1834,328 @@
   
 
 
+  <offer internal-id="7743874">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>97</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>10200000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>56.12</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388242/HMETA9bcKi_0FHwxNzMwNTIwMjE5fDllMzhj/planirovka_01_20k-2-56.12.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743875">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>98</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8500000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>42.51</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>на улицу</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388252/HMETA9bcKi70FHwxNzMwNTIwMzg3fDA0N2Fk/planirovka_02_10k-42.51.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
   <offer internal-id="7743877">
     
 
@@ -2330,10 +2174,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-28T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2477,168 +2321,6 @@
   
 
 
-  <offer internal-id="7743882">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://ligo-polyanka.ru</url>
-    
-
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
-    
-
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Сахалинская область</region>
-      
-
-      <district>п/р Дальнее</district>
-      
-
-      <locality-name>Южно-Сахалинск</locality-name>
-      
-
-      <address>ул им Б.П.Полевого, 5</address>
-      
-
-      <apartment>105</apartment>
-      
-
-      <longitude>142.6814459253768</longitude>
-      
-
-      <latitude>46.97942010853206</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Группа компаний ЛИГО</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>8 800 500-09-41</phone>
-      
-
-      <organization>Группа компаний ЛИГО</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>13683500</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>75.11</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>Жилой квартал «Большая Полянка»</building-name>
-    
-
-    <built-year>2026</built-year>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>3</floor>
-    
-
-    <renovation>предчистовая</renovation>
-    
-
-    <lift>нет</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>4</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>панельный</building-type>
-    
- 
-    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388275/HMETA9bcKizzFHwxNzMwNTIwNzkzfDA4YzI2/planirovka_03_3k0-75.11.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/5391199/HMETA9fVKSL_FHwxNzMwODY4NTAxfDlmYjhl/podezd_6._yetazh_3.jpg</image>
-     
-
- 
-    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="7743891">
     
 
@@ -2657,10 +2339,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2818,10 +2500,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-25T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-26T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2983,10 +2665,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-04-24T11:09:39+11:00</creation-date>
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
     
 
-    <last-update-date>2026-04-27T11:09:39+11:00</last-update-date>
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3119,6 +2801,323 @@
 
  
     <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7743921">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-26T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-29T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>144</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>8000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>38.22</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388299/HMETA9bcKiL_FHwxNzMwNTIxMjk5fDhkODVk/planirovka_5-3-1k-38.22.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="7247066">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-04-25T18:13:22+11:00</creation-date>
+    
+
+    <last-update-date>2026-04-28T18:13:22+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5, корпус 1</address>
+      
+
+      <apartment>4</apartment>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>8 800 500-09-41</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>11000000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>60.91</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <studio>1</studio>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7247057/4845448/js493Vv4KxBCy3wxNzE5NDQ0NjgwfDgzYTM2/planirovka_type_1-60.91.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7247057/4845501/js493Vv4KhRLy3wxNzE5NDQ1NjU0fGRhZjMz/podezd_1._yetazh_2.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7247057/4824118/js493V35LhVCy3wxNzE4NjY4ODc3fDhkODMz/cam_88.jpg</image>
      
 
 
