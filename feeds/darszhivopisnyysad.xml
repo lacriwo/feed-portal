@@ -2,8 +2,186 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-05-12T07:13:39+10:00</generation-date>
+  <generation-date>2026-05-13T08:16:33+10:00</generation-date>
   
+
+  <offer internal-id="6907321">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darszhivopisnyysad.rqch.ru/</url>
+    
+
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
+    
+
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Хабаровский край</region>
+      
+
+      <locality-name>Хабаровск</locality-name>
+      
+
+      <sub-locality-name>Железнодорожный</sub-locality-name>
+      
+
+      <address>переулок Брянский, 4</address>
+      
+
+      <apartment>6511</apartment>
+      
+
+      <longitude>135.0744608858247</longitude>
+      
+
+      <latitude>48.52675164538737</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars Development</name>
+      
+
+      <category>агентство</category>
+      
+
+      <phone>4212 59-82-05</phone>
+      
+
+      <organization>Dars Development</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>10670112</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>73.2</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Живописный сад</building-name>
+    
+
+    <yandex-building-id>3589363</yandex-building-id>
+    
+
+    <yandex-house-id>4186326</yandex-house-id>
+    
+
+    <built-year>2028</built-year>
+    
+
+    <ready-quarter>1</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>5</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>10</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
+&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
+&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
+&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
+&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
+&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
+&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
+&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
+&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4107916/HY3EYSgoy5u3HHwxNzYxNjE0Njg1fGQ0ZTg3/planirovka_k3-73_2-6-73.2.jpg</image>
+     
+
+
+  </offer>
+  
+
 
   <offer internal-id="4724419">
     
@@ -23,10 +201,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -202,10 +380,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -363,185 +541,6 @@
   
 
 
-  <offer internal-id="4724391">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 7</address>
-      
-
-      <apartment>807</apartment>
-      
-
-      <longitude>135.07121219947223</longitude>
-      
-
-      <latitude>48.52641730416086</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>5324195</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>36.01</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4082802</yandex-house-id>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>4</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>8</floor>
-    
-
-    <ceiling-height>2.7000</ceiling-height>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;p&gt;ДОМ СДАН!&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или&lt;/strong&gt; &lt;strong&gt;чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и поэтапной сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, коммерция, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4724260/3905591/HHZyxOH8C_Jnl3wxNzIyNTYzMDgzfDZlM2Yw/planirovka_k1-36_01-1-36.01.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4724363">
     
 
@@ -560,10 +559,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -721,185 +720,6 @@
   
 
 
-  <offer internal-id="4724350">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 7</address>
-      
-
-      <apartment>508</apartment>
-      
-
-      <longitude>135.07121219947223</longitude>
-      
-
-      <latitude>48.52641730416086</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>5148324</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>35.02</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4082802</yandex-house-id>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>4</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>5</floor>
-    
-
-    <ceiling-height>2.7000</ceiling-height>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;p&gt;ДОМ СДАН!&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или&lt;/strong&gt; &lt;strong&gt;чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и поэтапной сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, коммерция, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4724260/4063501/HHZ1zef6C_tnl3wxNzUyNDczNzEwfDQ4Yzll/planirovka_k1-35_02-1-2-35.02.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4724307">
     
 
@@ -918,10 +738,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1079,184 +899,6 @@
   
 
 
-  <offer internal-id="6907300">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>6401</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>7379535</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>47.82</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>4</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4107908/HY3EYSgoy5q5HHwxNzYxNjE0NTg3fDVlOGJl/planirovka_k2-47_82-6-47.82.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907248">
     
 
@@ -1275,10 +917,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1453,10 +1095,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1634,10 +1276,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1816,10 +1458,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1997,10 +1639,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2178,10 +1820,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2359,10 +2001,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2540,10 +2182,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2718,10 +2360,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2896,10 +2538,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3074,10 +2716,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3252,10 +2894,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3430,10 +3072,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3608,10 +3250,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3786,10 +3428,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3964,10 +3606,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4142,10 +3784,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4320,10 +3962,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4498,10 +4140,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4676,10 +4318,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4854,10 +4496,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5032,10 +4674,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5210,10 +4852,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5388,10 +5030,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5566,10 +5208,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5744,10 +5386,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5922,10 +5564,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6100,10 +5742,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6278,10 +5920,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6456,10 +6098,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6634,10 +6276,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6812,10 +6454,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6990,10 +6632,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7168,10 +6810,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7346,10 +6988,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7524,10 +7166,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7702,10 +7344,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7880,10 +7522,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8058,10 +7700,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8236,10 +7878,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8414,10 +8056,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8592,10 +8234,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8770,10 +8412,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8948,10 +8590,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9126,10 +8768,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9304,10 +8946,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9482,10 +9124,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9660,10 +9302,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9838,10 +9480,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10016,10 +9658,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10194,10 +9836,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10372,10 +10014,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10550,10 +10192,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10728,10 +10370,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10906,10 +10548,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11084,10 +10726,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11262,10 +10904,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11440,10 +11082,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11618,10 +11260,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:33+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:33+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11796,10 +11438,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11974,10 +11616,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12152,10 +11794,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:39+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:39+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12312,184 +11954,6 @@
   
 
 
-  <offer internal-id="6907383">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>7501</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>9918166</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>67.64</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>5</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4107995/HY3EYSgoy5O0HHwxNzYxNjE4NjkwfDc4NTc4/planirovka_k3-67_64-7-67.64.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907384">
     
 
@@ -12508,10 +11972,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12686,10 +12150,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -12864,10 +12328,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13042,10 +12506,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13220,10 +12684,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13398,10 +12862,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13576,10 +13040,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13754,10 +13218,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -13932,10 +13396,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14110,10 +13574,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14288,10 +13752,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14466,10 +13930,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14644,10 +14108,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -14822,10 +14286,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15000,10 +14464,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15178,10 +14642,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15356,10 +14820,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15534,10 +14998,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15712,10 +15176,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -15890,10 +15354,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16068,10 +15532,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16246,10 +15710,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16424,10 +15888,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16602,10 +16066,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16780,10 +16244,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -16958,10 +16422,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17136,10 +16600,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17314,10 +16778,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17492,10 +16956,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17670,10 +17134,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -17848,10 +17312,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18026,10 +17490,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18204,10 +17668,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18382,10 +17846,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18560,10 +18024,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18738,10 +18202,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -18916,10 +18380,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19094,10 +18558,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19272,10 +18736,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19450,10 +18914,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19628,10 +19092,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19806,10 +19270,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -19984,10 +19448,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20162,10 +19626,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20340,10 +19804,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20518,10 +19982,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20696,10 +20160,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -20874,10 +20338,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21052,10 +20516,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21230,10 +20694,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21408,10 +20872,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21586,10 +21050,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21764,10 +21228,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -21942,10 +21406,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22120,10 +21584,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22298,10 +21762,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22476,10 +21940,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22654,10 +22118,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -22832,10 +22296,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23010,10 +22474,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23188,10 +22652,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23366,10 +22830,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23544,10 +23008,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23722,10 +23186,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -23900,10 +23364,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24078,10 +23542,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24256,10 +23720,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24434,10 +23898,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24612,10 +24076,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24790,10 +24254,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -24968,10 +24432,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25146,10 +24610,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25324,10 +24788,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25502,10 +24966,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25680,10 +25144,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -25858,10 +25322,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26036,10 +25500,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26214,10 +25678,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26392,10 +25856,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26570,10 +26034,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26748,10 +26212,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -26926,10 +26390,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27104,10 +26568,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27282,10 +26746,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27460,10 +26924,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27638,10 +27102,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27816,10 +27280,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -27994,10 +27458,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28172,10 +27636,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28350,10 +27814,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28528,10 +27992,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28706,10 +28170,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -28884,10 +28348,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29062,10 +28526,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29240,10 +28704,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29418,10 +28882,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29596,10 +29060,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29774,10 +29238,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -29952,10 +29416,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30130,10 +29594,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30308,10 +29772,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30486,10 +29950,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30664,10 +30128,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -30842,10 +30306,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31020,10 +30484,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31198,10 +30662,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31376,10 +30840,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31554,10 +31018,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31732,10 +31196,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -31910,10 +31374,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32088,10 +31552,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32266,10 +31730,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32444,10 +31908,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32622,10 +32086,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32800,10 +32264,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -32978,10 +32442,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33156,10 +32620,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33334,10 +32798,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33512,10 +32976,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33690,10 +33154,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -33868,10 +33332,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34046,10 +33510,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34224,10 +33688,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34402,10 +33866,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34580,10 +34044,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34758,10 +34222,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -34936,10 +34400,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35114,10 +34578,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35292,10 +34756,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35470,10 +34934,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35648,10 +35112,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -35826,10 +35290,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36004,10 +35468,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36182,10 +35646,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36360,10 +35824,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36538,10 +36002,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36716,10 +36180,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -36894,10 +36358,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37072,10 +36536,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37250,10 +36714,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37428,10 +36892,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37606,10 +37070,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37784,10 +37248,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -37962,10 +37426,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38140,10 +37604,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38318,10 +37782,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38496,10 +37960,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38674,10 +38138,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -38852,10 +38316,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39030,10 +38494,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39208,10 +38672,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39386,10 +38850,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:34+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:34+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39564,10 +39028,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39742,10 +39206,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -39920,10 +39384,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40098,10 +39562,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40276,10 +39740,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40454,10 +39918,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40632,10 +40096,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40810,10 +40274,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -40988,10 +40452,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41166,10 +40630,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41344,10 +40808,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:40+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:40+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41522,10 +40986,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41700,10 +41164,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -41878,10 +41342,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42056,10 +41520,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42234,10 +41698,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42412,10 +41876,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42590,10 +42054,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42768,10 +42232,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -42946,10 +42410,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43124,10 +42588,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43302,10 +42766,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43480,10 +42944,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43658,10 +43122,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -43836,10 +43300,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44014,10 +43478,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44192,10 +43656,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44370,10 +43834,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44548,10 +44012,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44726,10 +44190,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -44904,10 +44368,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45082,10 +44546,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45260,10 +44724,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45438,10 +44902,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45616,10 +45080,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45794,10 +45258,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -45972,10 +45436,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46150,10 +45614,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46328,10 +45792,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46506,10 +45970,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46684,10 +46148,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -46862,10 +46326,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47040,10 +46504,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47218,10 +46682,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47396,10 +46860,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47574,10 +47038,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47752,10 +47216,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -47930,10 +47394,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48108,10 +47572,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48286,10 +47750,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48464,10 +47928,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48642,10 +48106,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48820,10 +48284,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -48998,10 +48462,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49176,10 +48640,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49354,10 +48818,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49532,10 +48996,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49710,10 +49174,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -49888,10 +49352,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50066,10 +49530,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50244,10 +49708,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50422,10 +49886,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50600,10 +50064,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50778,10 +50242,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50956,10 +50420,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -51134,10 +50598,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -51312,10 +50776,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -51490,10 +50954,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -51668,10 +51132,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -51846,10 +51310,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52024,10 +51488,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52202,10 +51666,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52380,10 +51844,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52558,10 +52022,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52736,10 +52200,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -52914,10 +52378,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53092,10 +52556,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53270,10 +52734,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53448,10 +52912,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53626,10 +53090,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53804,10 +53268,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -53982,10 +53446,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -54160,10 +53624,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -54338,10 +53802,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -54516,10 +53980,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -54694,10 +54158,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -54872,10 +54336,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55050,10 +54514,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55228,10 +54692,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55406,10 +54870,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55584,10 +55048,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55762,10 +55226,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -55940,10 +55404,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -56118,10 +55582,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -56296,10 +55760,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -56474,10 +55938,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -56652,10 +56116,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -56830,10 +56294,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57008,10 +56472,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57186,10 +56650,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57364,10 +56828,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57542,10 +57006,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57720,10 +57184,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -57898,10 +57362,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58076,10 +57540,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58254,10 +57718,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58432,10 +57896,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58610,10 +58074,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58788,10 +58252,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -58966,10 +58430,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -59144,10 +58608,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -59322,10 +58786,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -59500,10 +58964,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -59678,10 +59142,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -59856,10 +59320,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -60016,184 +59480,6 @@
   
 
 
-  <offer internal-id="6906993">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>1904</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8348531</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>54.6</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>9</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090538/HY3EYCEvx5m5HHwxNzU4MTU0MDg4fDUzYzc4/planirovka_k3-54_6-1-54.6.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6906994">
     
 
@@ -60212,10 +59498,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -60390,10 +59676,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -60568,10 +59854,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -60746,10 +60032,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -60924,10 +60210,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61102,10 +60388,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61280,10 +60566,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61458,10 +60744,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61636,10 +60922,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61814,10 +61100,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -61992,10 +61278,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -62170,10 +61456,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -62348,10 +61634,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -62526,10 +61812,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -62704,10 +61990,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -62882,10 +62168,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63060,10 +62346,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63238,10 +62524,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63416,10 +62702,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63594,10 +62880,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63772,10 +63058,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -63950,10 +63236,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:35+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:35+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -64128,10 +63414,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -64306,10 +63592,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -64484,10 +63770,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -64662,10 +63948,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-11T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -64840,10 +64126,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65018,10 +64304,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65196,10 +64482,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65374,10 +64660,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65552,10 +64838,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65730,10 +65016,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -65908,10 +65194,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66090,10 +65376,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-11T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66268,10 +65554,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66446,10 +65732,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66624,10 +65910,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-10T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66802,10 +66088,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -66980,10 +66266,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-12T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -67158,10 +66444,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -67336,10 +66622,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-05-09T07:13:41+10:00</creation-date>
+    <creation-date>2026-05-09T08:16:36+10:00</creation-date>
     
 
-    <last-update-date>2026-05-10T07:13:41+10:00</last-update-date>
+    <last-update-date>2026-05-13T08:16:36+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -67489,191 +66775,6 @@
     
  
     <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090534/HY3EYCEvx5m1HHwxNzU4MTUzOTg1fDg5Y2Nk/planirovka_k2-34_17-1-34.17.jpg</image>
-     
-
-
-  </offer>
-  
-
-
-  <offer internal-id="4164235">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-05-08T07:13:41+10:00</creation-date>
-    
-
-    <last-update-date>2026-05-12T07:13:41+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 3</address>
-      
-
-      <apartment>4101</apartment>
-      
-
-      <longitude>135.07086648597758</longitude>
-      
-
-      <latitude>48.52619867882481</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>10990875</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>82.95</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>3976646</yandex-house-id>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>4</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <ceiling-height>2.7000</ceiling-height>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <building-type>монолит</building-type>
-    
-
-    <description>ДОМ СДАН!
-
-Квартира из третьего дома в ЖК «Живописный сад», 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.
-
-ЖК «Живописный сад» — это гармония жизни с природой. Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.
-
-- 20 домов комфортной высоты от 6 до 10 этажей
-- Современная монолитная технология строительства
-- Разные архитектурные решения для каждого дома в общей концепции
-- Вечерняя подсветка фасадов и ландшафта
-- Цветущие деревья и пешеходный бульвар
-- Дизайн-проект холлов с вниманием к деталям
-
-Реализация ЖК «Живописный сад» проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся новые детские сады и школа в районе, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4163984/3659834/DGnK8SXOAGc75nwxNzAxOTMzMjIyfDVjYzAz/planirovka_k3-82_95-4-82.95.jpg</image>
      
 
 
