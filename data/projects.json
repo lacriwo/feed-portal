@@ -54,6 +54,17 @@
       "replacement_value": "https://darsnasemiholmah.rqch.ru/",
       "interval_hours": 24,
       "updated_at": "2026-04-27T13:17:54.798Z"
+    },
+    {
+      "project_name": "dars_hudozhniki",
+      "slug": "dars_hudozhniki",
+      "source_feed_url": "https://api.macro.sbercrm.com/estate/export/yandex/jYiup3M_G7nIeIbSeRR07Fljam13x7KDTRi0yA1bL-p-jJl6QSwGDJAaea9hDv3cErwfVpE1HZ5ioUAMAZa_sRBNJq0c_bzdiXsRIjhgBY621Iqe7Ik8IrM5OolEI8Tc9SgbAvj0Xj18MTc3OTk1Mjk3MHw3MzAwMQ/544-yandex.xml?feed_id=4065",
+      "fields": [
+        "url"
+      ],
+      "replacement_value": "https://darshudozhniki.rqch.ru",
+      "interval_hours": 24,
+      "updated_at": "2026-06-02T10:00:07.528Z"
     }
   ]
 }
