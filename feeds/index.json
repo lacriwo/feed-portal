@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-02T06:58:01.687371Z",
+  "generated_at_utc": "2026-06-02T10:00:21.834749Z",
   "projects": [
     {
       "slug": "polyanka",
@@ -30,6 +30,12 @@
       "project_name": "darsnasemiholmah_Feed",
       "interval_hours": 24,
       "feed_path": "feeds/darsnasemiholmah.rqch.ru.xml"
+    },
+    {
+      "slug": "dars_hudozhniki",
+      "project_name": "dars_hudozhniki",
+      "interval_hours": 24,
+      "feed_path": "feeds/dars_hudozhniki.xml"
     }
   ]
 }
