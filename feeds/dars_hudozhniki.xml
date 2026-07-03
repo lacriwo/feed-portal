@@ -2,8 +2,1108 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-07-02T09:10:06+03:00</generation-date>
+  <generation-date>2026-07-03T10:37:10+03:00</generation-date>
   
+
+  <offer internal-id="4306342">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darshudozhniki.rqch.ru</url>
+    
+
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
+    
+
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Волгоградская область</region>
+      
+
+      <district>Ангарский</district>
+      
+
+      <locality-name>Волгоград</locality-name>
+      
+
+      <sub-locality-name>Дзержинский</sub-locality-name>
+      
+
+      <address>ул им Полоненко, 1</address>
+      
+
+      <apartment>904</apartment>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>+78442511115</phone>
+      
+
+      <organization>Dars</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7150500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>68.1</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Художники</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <ready-quarter>3</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>9</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>19</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>Продается просторная квартира в монолитном доме комфорт-класса.
+
+В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
+
+Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
+
+Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
+
+Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
+
+Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
+
+Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
+
+Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882827/EqSSNZZ9SuTHq3wxNzE5MzE1MjQxfDVlNzU4/planirovka_k2-68_1-1-68.1.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882826/EqSSNZZ9SuTGq3wxNzE5MzE1MjI0fDJmNjll/804_1k.jpg.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879450/EqSSNZl2RuPAq3wxNzE4ODczNDA0fDI5Mjdh/podezd_1._yetazh_9.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="4306347">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darshudozhniki.rqch.ru</url>
+    
+
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
+    
+
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Волгоградская область</region>
+      
+
+      <district>Ангарский</district>
+      
+
+      <locality-name>Волгоград</locality-name>
+      
+
+      <sub-locality-name>Дзержинский</sub-locality-name>
+      
+
+      <address>ул им Полоненко, 1</address>
+      
+
+      <apartment>1001</apartment>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>+78442511115</phone>
+      
+
+      <organization>Dars</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>10286850</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>97.97</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Художники</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <ready-quarter>3</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>10</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>19</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>Продается просторная квартира в монолитном доме комфорт-класса.
+
+В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
+
+Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
+
+Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
+
+Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
+
+Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
+
+Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
+
+Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882842/EqSSNZZ9SuLCq3wxNzE5MzE1OTkzfDYxMjQ4/planirovka_k3-97_97-1-97.97.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882841/EqSSNZZ9SuLBq3wxNzE5MzE1OTgxfGJjNGYw/901_3k.jpg.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879451/EqSSNZl2RuPBq3wxNzE4ODczNDE5fDRjYTlk/podezd_1._yetazh_10.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="4306331">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darshudozhniki.rqch.ru</url>
+    
+
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
+    
+
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Волгоградская область</region>
+      
+
+      <district>Ангарский</district>
+      
+
+      <locality-name>Волгоград</locality-name>
+      
+
+      <sub-locality-name>Дзержинский</sub-locality-name>
+      
+
+      <address>ул им Полоненко, 1</address>
+      
+
+      <apartment>801</apartment>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>+78442511115</phone>
+      
+
+      <organization>Dars</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>10912350</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>94.89</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Художники</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <ready-quarter>3</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>3</rooms>
+    
+
+    <rooms-offered>3</rooms-offered>
+    
+
+    <floor>8</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>19</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>Продается просторная квартира в монолитном доме комфорт-класса.
+
+В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
+
+Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
+
+Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
+
+Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
+
+Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
+
+Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
+
+Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882835/EqSSNZZ9SuXFq3wxNzE5MzE1ODI1fDdhMWJm/planirovka_k3-94_89-1-94.89.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882836/EqSSNZZ9SuXGq3wxNzE5MzE1ODQwfDEzYTQ3/801_3k.jpg.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879448/EqSSNZl2RuLIq3wxNzE4ODczMzkxfDMxOTQ5/podezd_1._yetazh_8.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="4306350">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darshudozhniki.rqch.ru</url>
+    
+
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
+    
+
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Волгоградская область</region>
+      
+
+      <district>Ангарский</district>
+      
+
+      <locality-name>Волгоград</locality-name>
+      
+
+      <sub-locality-name>Дзержинский</sub-locality-name>
+      
+
+      <address>ул им Полоненко, 1</address>
+      
+
+      <apartment>1004</apartment>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>+78442511115</phone>
+      
+
+      <organization>Dars</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7150500</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>68.1</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Художники</building-name>
+    
+
+    <built-year>2025</built-year>
+    
+
+    <ready-quarter>3</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>10</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>19</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>Продается просторная квартира в монолитном доме комфорт-класса.
+
+В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
+
+Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
+
+Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
+
+Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
+
+Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
+
+Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
+
+Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882827/EqSSNZZ9SuTHq3wxNzE5MzE1MjQxfDVlNzU4/planirovka_k2-68_1-1-68.1.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882826/EqSSNZZ9SuTGq3wxNzE5MzE1MjI0fDJmNjll/804_1k.jpg.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879451/EqSSNZl2RuPBq3wxNzE4ODczNDE5fDRjYTlk/podezd_1._yetazh_10.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
+     
+
+ 
+    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
+     
+
+
+  </offer>
+  
+
 
   <offer internal-id="7158082">
     
@@ -23,10 +1123,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -202,10 +1302,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -381,10 +1481,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -560,10 +1660,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -835,10 +1935,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1014,10 +2114,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1289,10 +2389,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1564,10 +2664,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1821,281 +2921,6 @@
   
 
 
-  <offer internal-id="4306347">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darshudozhniki.rqch.ru</url>
-    
-
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
-    
-
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Волгоградская область</region>
-      
-
-      <district>Ангарский</district>
-      
-
-      <locality-name>Волгоград</locality-name>
-      
-
-      <sub-locality-name>Дзержинский</sub-locality-name>
-      
-
-      <address>ул им Полоненко, 1</address>
-      
-
-      <apartment>1001</apartment>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>+78442511115</phone>
-      
-
-      <organization>Dars</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>10384820</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>97.97</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Художники</building-name>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>3</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>10</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>19</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>Продается просторная квартира в монолитном доме комфорт-класса.
-
-В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
-
-Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
-
-Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
-
-Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
-
-Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
-
-Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
-
-Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882842/EqSSNZZ9SuLCq3wxNzE5MzE1OTkzfDYxMjQ4/planirovka_k3-97_97-1-97.97.jpg</image>
-     
-
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882841/EqSSNZZ9SuLBq3wxNzE5MzE1OTgxfGJjNGYw/901_3k.jpg.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879451/EqSSNZl2RuPBq3wxNzE4ODczNDE5fDRjYTlk/podezd_1._yetazh_10.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4306411">
     
 
@@ -2114,10 +2939,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2389,10 +3214,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2664,10 +3489,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2939,10 +3764,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3196,281 +4021,6 @@
   
 
 
-  <offer internal-id="4306331">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darshudozhniki.rqch.ru</url>
-    
-
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
-    
-
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Волгоградская область</region>
-      
-
-      <district>Ангарский</district>
-      
-
-      <locality-name>Волгоград</locality-name>
-      
-
-      <sub-locality-name>Дзержинский</sub-locality-name>
-      
-
-      <address>ул им Полоненко, 1</address>
-      
-
-      <apartment>801</apartment>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>+78442511115</phone>
-      
-
-      <organization>Dars</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>9963450</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>94.89</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Художники</building-name>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>3</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>3</rooms>
-    
-
-    <rooms-offered>3</rooms-offered>
-    
-
-    <floor>8</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>19</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>Продается просторная квартира в монолитном доме комфорт-класса.
-
-В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
-
-Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
-
-Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
-
-Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
-
-Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
-
-Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
-
-Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882835/EqSSNZZ9SuXFq3wxNzE5MzE1ODI1fDdhMWJm/planirovka_k3-94_89-1-94.89.jpg</image>
-     
-
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882836/EqSSNZZ9SuXGq3wxNzE5MzE1ODQwfDEzYTQ3/801_3k.jpg.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879448/EqSSNZl2RuLIq3wxNzE4ODczMzkxfDMxOTQ5/podezd_1._yetazh_8.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4306323">
     
 
@@ -3489,10 +4039,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3764,10 +4314,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3943,10 +4493,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4218,10 +4768,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4493,10 +5043,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4750,281 +5300,6 @@
   
 
 
-  <offer internal-id="4306350">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darshudozhniki.rqch.ru</url>
-    
-
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
-    
-
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Волгоградская область</region>
-      
-
-      <district>Ангарский</district>
-      
-
-      <locality-name>Волгоград</locality-name>
-      
-
-      <sub-locality-name>Дзержинский</sub-locality-name>
-      
-
-      <address>ул им Полоненко, 1</address>
-      
-
-      <apartment>1004</apartment>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>+78442511115</phone>
-      
-
-      <organization>Dars</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8066445</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>68.1</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Художники</building-name>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>3</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>10</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>19</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>Продается просторная квартира в монолитном доме комфорт-класса.
-
-В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
-
-Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
-
-Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
-
-Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
-
-Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
-
-Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
-
-Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882827/EqSSNZZ9SuTHq3wxNzE5MzE1MjQxfDVlNzU4/planirovka_k2-68_1-1-68.1.jpg</image>
-     
-
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882826/EqSSNZZ9SuTGq3wxNzE5MzE1MjI0fDJmNjll/804_1k.jpg.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879451/EqSSNZl2RuPBq3wxNzE4ODczNDE5fDRjYTlk/podezd_1._yetazh_10.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4306318">
     
 
@@ -5043,10 +5318,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5318,10 +5593,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5593,10 +5868,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5850,281 +6125,6 @@
   
 
 
-  <offer internal-id="4306342">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darshudozhniki.rqch.ru</url>
-    
-
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
-    
-
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Волгоградская область</region>
-      
-
-      <district>Ангарский</district>
-      
-
-      <locality-name>Волгоград</locality-name>
-      
-
-      <sub-locality-name>Дзержинский</sub-locality-name>
-      
-
-      <address>ул им Полоненко, 1</address>
-      
-
-      <apartment>904</apartment>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars</name>
-      
-
-      <category>застройщик</category>
-      
-
-      <phone>+78442511115</phone>
-      
-
-      <organization>Dars</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>8066445</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>68.1</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Художники</building-name>
-    
-
-    <built-year>2025</built-year>
-    
-
-    <ready-quarter>3</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>9</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>нет</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>19</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>Продается просторная квартира в монолитном доме комфорт-класса.
-
-В ЖК &quot;Художники&quot; будет собственная инфраструктура - и вы сможете спустится в пижаме в кофейню за кофе и круассаном, заниматься в фитнес-клубе на территории ЖК. Ваших гостей будет встречать элегантное, просторное лобби выполненное в благородных светлых тонах с комфортными диванами в зоне ожидания. Доступ на этаж будет осуществляться через смарт-карты в лифтовых кабинах, что обеспечит дополнительную безопасность жителей. Во дворе комплекса, согласно концепции благоустройства, появится цветущий сад.
-
-Во дворе комплекса расположится двухуровневая парковка, на крыше которой разместится детская площадка, вход на которую будет осуществляться с третьих этажей жилых домов комплекса, что позволит сделать ее приватной и безопасной.
-
-Что касается локации, Художники - один из самых удобных районов, расположен в 5ти минутах от центра города, из окон квартир открывается потрясающий вид на пойму реки Царица. В двух шагах от жилого комплекса находятся детские сады и школы.
-
-Особое внимание мы уделили качеству воды в нашем ЖК, учитывая особенности Волгоградского региона, мы спроектировали встроенную многоуровневую систему очистки воды.
-
-Доступна беспроцентная рассрочка от застройщика до окончания срока строительства.
-
-Дополнительно предлагаем 9 видов дизайнерского ремонта от «эконом» до «комфорт» класса (стоимость ремонта включается в ипотечный кредит). Примеры отделки на фото.
-
-Условия продажи: наличные, ипотека, военная ипотека, материнский капитал, рассрочка и все виды жилищных сертификатов.</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882827/EqSSNZZ9SuTHq3wxNzE5MzE1MjQxfDVlNzU4/planirovka_k2-68_1-1-68.1.jpg</image>
-     
-
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/4306279/3882826/EqSSNZZ9SuTGq3wxNzE5MzE1MjI0fDJmNjll/804_1k.jpg.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3879450/EqSSNZl2RuPAq3wxNzE4ODczNDA0fDI5Mjdh/podezd_1._yetazh_9.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888796/EqSSNZZ3Re_Gq3wxNzIwMDEwMTczfGQ5NGRl/str.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888797/EqSSNZZ3Re_Hq3wxNzIwMDEwMTc4fDdmNWUz/907.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888798/EqSSNZZ3Re_Iq3wxNzIwMDEwMTgwfGVhNzg4/1_1_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888799/EqSSNZZ3Re_Jq3wxNzIwMDEwMTgxfDljNDQw/1_8_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888800/EqSSNZZ3SubAq3wxNzIwMDEwMTgxfGM0YmY4/1_3_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888801/EqSSNZZ3SubBq3wxNzIwMDEwMTgyfGIwNDgw/1_5_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888802/EqSSNZZ3SubCq3wxNzIwMDEwMTgyfDhlZGMx/1_7_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888803/EqSSNZZ3SubDq3wxNzIwMDEwMTgyfDIwMjAy/1_6_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888804/EqSSNZZ3SubEq3wxNzIwMDEwMTgyfGMxZWQx/1_2_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888805/EqSSNZZ3SubFq3wxNzIwMDEwMTg2fGE2MjM0/1_9_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888806/EqSSNZZ3SubGq3wxNzIwMDEwMTg3fDI3MmU4/gt.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888807/EqSSNZZ3SubHq3wxNzIwMDEwMTg3fGQ0OTRi/1_10_copy.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888808/EqSSNZZ3SubIq3wxNzIwMDEwMTk1fDkzN2Yy/807.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888809/EqSSNZZ3SubJq3wxNzIwMDEwMTk2fDg0NTA4/34.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888810/EqSSNZZ3SufAq3wxNzIwMDEwMTk3fDdiZmI2/3107_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888811/EqSSNZZ3SufBq3wxNzIwMDEwMTk5fGYxMTdk/004.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888812/EqSSNZZ3SufCq3wxNzIwMDEwMTk5fGY4Njk3/5108.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888813/EqSSNZZ3SufDq3wxNzIwMDEwMjAwfGQ4OTQw/6107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888814/EqSSNZZ3SufEq3wxNzIwMDEwMjA1fDhmMzNk/2107.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888815/EqSSNZZ3SufFq3wxNzIwMDEwMjA1fDcyODEy/1007.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888816/EqSSNZZ3SufGq3wxNzIwMDEwMjA2fGJiYjdi/005.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888817/EqSSNZZ3SufHq3wxNzIwMDEwMjA3fGFkMDJm/006_1.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888818/EqSSNZZ3SufIq3wxNzIwMDEwMjEwfDhlM2Ex/0011.jpg</image>
-     
-
- 
-    <image>https://macro.sbercrm.com/estate/files/get/4306279/3888819/EqSSNZZ3SufJq3wxNzIwMDEwMjEwfDc2M2I5/002.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="4306366">
     
 
@@ -6143,10 +6143,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6418,10 +6418,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6693,10 +6693,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6968,10 +6968,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7243,10 +7243,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7518,10 +7518,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7793,10 +7793,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:10+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:10+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8068,10 +8068,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8343,10 +8343,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8618,10 +8618,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:06+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:06+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8893,10 +8893,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9168,10 +9168,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9443,10 +9443,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9718,10 +9718,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9993,10 +9993,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10268,10 +10268,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10543,10 +10543,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-30T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-03T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10818,10 +10818,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-01T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11093,10 +11093,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-28T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-07-02T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-02T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11368,10 +11368,10 @@
     <url>https://darshudozhniki.rqch.ru</url>
     
 
-    <creation-date>2026-06-29T09:10:07+03:00</creation-date>
+    <creation-date>2026-06-29T10:37:11+03:00</creation-date>
     
 
-    <last-update-date>2026-06-30T09:10:07+03:00</last-update-date>
+    <last-update-date>2026-07-01T10:37:11+03:00</last-update-date>
     
 
     <manually-added>да</manually-added>
