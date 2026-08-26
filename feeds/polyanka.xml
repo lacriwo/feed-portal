@@ -2,7 +2,7 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-08-26T02:05:30+11:00</generation-date>
+  <generation-date>2026-08-27T02:54:47+11:00</generation-date>
   
 
   <offer internal-id="7743906">
@@ -23,10 +23,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-25T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -159,6 +159,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://getfloorplan.com/widget?id=728be9ad-9ed3-4cb0-a528-166fc05c0f02</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7042987/HMERANrWISPxFHwxNzc4MTEyMzUwfDg5YWUx/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5395469/HMETA9fRLC3_FHwxNzMxMDIzNzI4fDBkMDlk/planirovka_5-11-2k-64.15.jpg</image>
      
@@ -214,10 +221,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-26T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -347,6 +354,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=d2dc9108-689a-4072-a1c1-779d26f9c3c9</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7040769/HMERANrULy3_FHwxNzc4MDMxMzc4fDM1Y2Jj/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388306/HMETA9bcKyvwFHwxNzMwNTIxMzYzfDFjYmRi/planirovka_2_03k-86.99.jpg</image>
      
@@ -394,10 +408,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-26T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-27T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -537,6 +551,13 @@
 1 ЭТАЖ:
 [2к., 65.37м², 12.8 млн.р.]</description>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=4eaee255-f6c2-4557-92f5-e676bc815442</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7040773/HMERANrULyz1FHwxNzc4MDMxNTc0fGU1ZWNi/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388303/HMETA9bcKyv1FHwxNzMwNTIxMzM1fGFiNmVi/planirovka_1_02k-65.37.jpg</image>
      
@@ -588,10 +609,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-27T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -724,6 +745,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=d3d9bc92-b169-4832-b8c5-7a40de24df63</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/5388281/HMETA9bcKiP3FHwxNzMwNTIwODgwfDczMjQ4/planirovka_05-2k-64.36.jpg</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388281/HMETA9bcKiP3FHwxNzMwNTIwODgwfDczMjQ4/planirovka_05-2k-64.36.jpg</image>
      
@@ -759,10 +787,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-25T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -902,6 +930,13 @@
 1 ЭТАЖ:
 [2к., 64.95м², 12.8 млн.р.]</description>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=55bdd27f-b9d7-44d3-813f-bd6a664d3c73</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7049753/HMERANrdLy71FHwxNzc4NjU0NjI4fDk4ZDQw/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388309/HMETA9bcKyv_FHwxNzMwNTIxMzkwfGU3YmY1/planirovka_3-2k-64.95.jpg</image>
      
@@ -953,10 +988,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-27T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1096,6 +1131,13 @@
 1 ЭТАЖ:
 [2к., 65.97м², 12.8 млн.р.]</description>
     
+
+    <virtual-tour>
+      <model-url>https://getfloorplan.com/widget?id=86739cb4-7e42-43aa-b43f-d83c7a2d883d</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7040736/HMERANrULyjwFHwxNzc4MDI1MjgxfDBlNjc0/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388294/HMETA9bcKiLyFHwxNzMwNTIxMjIwfDczMDRi/planirovka_6-2k-65.97.jpg</image>
      
@@ -1147,10 +1189,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-26T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1283,6 +1325,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=857da4a6-a29a-4303-8094-4e25af0ce823</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7051237/HMERANvVKijxFHwxNzc4NzE4MTQ1fDhlNDk3/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388312/HMETA9bcKyr0FHwxNzMwNTIxNDE2fGUwMDlm/planirovka_4-1-2k-64.42.jpg</image>
      
@@ -1334,10 +1383,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-26T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-25T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1470,6 +1519,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=42a4c170-1241-484b-8216-46d80c06fc3f</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/5388247/HMETA9bcKi_xFHwxNzMwNTIwMjg2fGNjZTU3/planirovka_01_3k0-69.34.jpg</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388247/HMETA9bcKi_xFHwxNzMwNTIwMjg2fGNjZTU3/planirovka_01_3k0-69.34.jpg</image>
      
@@ -1505,10 +1561,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-24T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1641,6 +1697,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=e10d0a3e-04d2-4a52-ac17-977566a7d298</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7049702/HMERANrdLyv0FHwxNzc4NjUzNTc4fDY2NmY2/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388302/HMETA9bcKyv0FHwxNzMwNTIxMzI5fDA5ZmNh/planirovka_1-2k-65.6.jpg</image>
      
@@ -1692,10 +1755,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-26T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1825,6 +1888,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=ad3436ae-8d9f-405c-829b-2f4fb8e205b6</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/5388269/HMETA9bcKi3_FHwxNzMwNTIwNjI2fDU1OWNk/planirovka_03_03_2k-64.07.jpg</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388269/HMETA9bcKi3_FHwxNzMwNTIwNjI2fDU1OWNk/planirovka_03_03_2k-64.07.jpg</image>
      
@@ -1860,10 +1930,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-23T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-24T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-25T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2003,6 +2073,13 @@
 4 ЭТАЖ:
 [2к., 64.31м², 13.1 млн.р.]</description>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=fc2ebb40-0c44-4c73-ba52-a5d8842ea1ce</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7049444/HMERANrdLC_yFHwxNzc4NjQ0MzA3fDFjODQ1/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388278/HMETA9bcKiz-FHwxNzMwNTIwODI4fDhkMTU4/planirovka_04-4-2k-64.31.jpg</image>
      
@@ -2054,10 +2131,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2190,6 +2267,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=f2034c9d-94aa-4b27-b96b-7c8a635705bc</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7074124/HMERANnQKSnyFHwxNzc5NzQ5NzU2fGNkODEw/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388244/HMETA9bcKi_yFHwxNzMwNTIwMjM2fGNjMDg3/planirovka_01_2k-2-56.12.jpg</image>
      
@@ -2245,10 +2329,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-23T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-25T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-27T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2381,6 +2465,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=5e4670cc-6ae1-4841-aab6-eaf80e2a9d90</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7049437/HMERANrdLCjxFHwxNzc4NjQ0MjM5fDg4OTA2/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388277/HMETA9bcKizxFHwxNzMwNTIwODEzfDhiZWU4/planirovka_04-2k-64.95.jpg</image>
      
@@ -2436,10 +2527,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-24T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2572,6 +2663,13 @@
 
     <building-type>панельный</building-type>
     
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=6ca59e0a-5a1c-403a-8bcd-60406cbc9129</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7042969/HMERANrWIS3_FHwxNzc4MTA5ODk1fDM3MzI4/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5393238/HMETA9fXKij-FHwxNzMwOTUyNjc1fGYyNGVh/planirovka_06-2k-65.97.jpg</image>
      
@@ -2627,10 +2725,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-08-22T02:05:30+11:00</creation-date>
+    <creation-date>2026-08-24T02:54:47+11:00</creation-date>
     
 
-    <last-update-date>2026-08-24T02:05:30+11:00</last-update-date>
+    <last-update-date>2026-08-26T02:54:47+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2762,6 +2860,13 @@
     
 
     <building-type>панельный</building-type>
+    
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=e10d0a3e-04d2-4a52-ac17-977566a7d298</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7049386/HMERANrdKyPwFHwxNzc4NjQzMjM4fDcwNDgz/topview_0_0.png.png</preview-url>
+    </virtual-tour>
     
  
     <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5388265/HMETA9bcKi3zFHwxNzMwNTIwNTk1fGMzNTdl/planirovka_03-2k-65.6.jpg</image>
