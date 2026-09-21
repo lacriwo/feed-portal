@@ -2,8 +2,206 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-09-20T23:23:09+11:00</generation-date>
+  <generation-date>2026-09-22T01:10:18+11:00</generation-date>
   
+
+  <offer internal-id="7743814">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://ligo-polyanka.ru</url>
+    
+
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
+    
+
+    <last-update-date>2026-09-22T01:10:18+11:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Сахалинская область</region>
+      
+
+      <district>п/р Дальнее</district>
+      
+
+      <locality-name>Южно-Сахалинск</locality-name>
+      
+
+      <address>ул им Б.П.Полевого, 5</address>
+      
+
+      <apartment>37</apartment>
+      
+
+      <longitude>142.6814459253768</longitude>
+      
+
+      <latitude>46.97942010853206</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Группа компаний ЛИГО</name>
+      
+
+      <category>застройщик</category>
+      
+
+      <phone>74242747941</phone>
+      
+
+      <organization>Группа компаний ЛИГО</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>11800000</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>65.97</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <living-space>
+      <value>30.45</value>
+      <unit>кв.м</unit>
+    </living-space>
+    
+
+    <building-name>Жилой квартал «Большая Полянка»</building-name>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <building-state>hand-over</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <window-view>во двор</window-view>
+    
+
+    <renovation>предчистовая</renovation>
+    
+
+    <lift>нет</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>нет</guarded-building>
+    
+
+
+    <bathroom-unit>2</bathroom-unit>
+    
+
+
+    <floors-total>4</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <building-type>панельный</building-type>
+    
+
+    <virtual-tour>
+      <model-url>https://ligo-polyanka.widget.hart-estate.ru/beta/?id=6ca59e0a-5a1c-403a-8bcd-60406cbc9129</model-url>
+      <provider>iframe</provider>
+      <preview-url>https://macroserver.ru/estate/files/get/7739610/7042969/HMERANrWIS3_FHwxNzc4MTA5ODk1fDM3MzI4/topview_0_0.png.png</preview-url>
+    </virtual-tour>
+    
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/5393238/HMETA9fXKij-FHwxNzMwOTUyNjc1fGYyNGVh/planirovka_06-2k-65.97.jpg</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/7042969/HMERANrWIS3_FHwxNzc4MTA5ODk1fDM3MzI4/topview_0_0.png.png</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/7042970/HMERANrWISz2FHwxNzc4MTA5OTIwfGQyMGI5/middlecut_0_0_0.png</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/7042971/HMERANrWISz3FHwxNzc4MTA5OTIzfGFlMmNk/middlecut_0_0_3.png</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/7042972/HMERANrWISz0FHwxNzc4MTA5OTI2fDdmMGFi/middlecut_0_0_6.png</image>
+     
+
+ 
+    <image tag="plan">https://macroserver.ru/estate/files/get/7739610/7042973/HMERANrWISz1FHwxNzc4MTA5OTI5fDQ2YzMw/middlecut_0_0_9.png</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/5389894/HMETA9bdICLyFHwxNzMwNzgzODc1fGViNDAx/podezd_2._yetazh_1.jpg</image>
+     
+
+ 
+    <image>https://macroserver.ru/estate/files/get/7739610/6854912/HMEQCNvQISr0FHwxNzcwNjE4NDA2fDI1ZTgw/v1_ev_f.jpg</image>
+     
+
+
+  </offer>
+  
+
 
   <offer internal-id="7743922">
     
@@ -23,10 +221,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-20T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-20T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -224,10 +422,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-19T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-22T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -425,10 +623,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-20T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-22T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -623,10 +821,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-19T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-19T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-22T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -801,10 +999,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-19T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-18T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-20T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -999,10 +1197,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-17T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-19T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-20T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-20T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1177,10 +1375,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-16T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-18T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-21T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1371,10 +1569,10 @@
     <url>https://ligo-polyanka.ru</url>
     
 
-    <creation-date>2026-09-16T23:23:09+11:00</creation-date>
+    <creation-date>2026-09-18T01:10:18+11:00</creation-date>
     
 
-    <last-update-date>2026-09-19T23:23:09+11:00</last-update-date>
+    <last-update-date>2026-09-20T01:10:18+11:00</last-update-date>
     
 
     <manually-added>да</manually-added>
