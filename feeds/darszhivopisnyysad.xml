@@ -2,10 +2,10 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
   
 
-  <generation-date>2026-11-17T22:31:35+10:00</generation-date>
+  <generation-date>2026-11-18T23:33:19+10:00</generation-date>
   
 
-  <offer internal-id="6907405">
+  <offer internal-id="6906924">
     
 
     <category>квартира</category>
@@ -23,10 +23,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -50,7 +50,7 @@
       <address>переулок Брянский, 4</address>
       
 
-      <apartment>7802</apartment>
+      <apartment>1205</apartment>
       
 
       <longitude>135.0744608858247</longitude>
@@ -83,7 +83,7 @@
     <price>
       
 
-      <value>6085881</value>
+      <value>6088852</value>
       
 
       <currency>RUB</currency>
@@ -93,7 +93,7 @@
     
 
     <area>
-      <value>35.22</value>
+      <value>35.51</value>
       <unit>кв.м</unit>
     </area>
     
@@ -119,17 +119,17 @@
     <new-flat>1</new-flat>
     
 
-    <rooms-type>раздельные</rooms-type>
+    <studio>1</studio>
     
 
 
-    <rooms>1</rooms>
+    <rooms>2</rooms>
     
 
-    <rooms-offered>1</rooms-offered>
+    <rooms-offered>2</rooms-offered>
     
 
-    <floor>8</floor>
+    <floor>2</floor>
     
 
     <open-plan>нет</open-plan>
@@ -178,7 +178,732 @@
 &lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
     
  
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4107988/HY3EYSgoy5K5HHwxNzYxNjE4NTcwfDlhNDUy/planirovka_k1-35_22-7-35.22.jpg</image>
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090536/HY3EYCEvx5m3HHwxNzU4MTU0MDQ3fDM5ZTM4/planirovka_k2-35_51-1-35.51.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6907097">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darszhivopisnyysad.rqch.ru/</url>
+    
+
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
+    
+
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Хабаровский край</region>
+      
+
+      <locality-name>Хабаровск</locality-name>
+      
+
+      <sub-locality-name>Железнодорожный</sub-locality-name>
+      
+
+      <address>переулок Брянский, 4</address>
+      
+
+      <apartment>3403</apartment>
+      
+
+      <longitude>135.0744608858247</longitude>
+      
+
+      <latitude>48.52675164538737</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars Development</name>
+      
+
+      <category>агентство</category>
+      
+
+      <phone>4212 59-82-05</phone>
+      
+
+      <organization>Dars Development</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7379471</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>48.7</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Живописный сад</building-name>
+    
+
+    <yandex-building-id>3589363</yandex-building-id>
+    
+
+    <yandex-house-id>4186326</yandex-house-id>
+    
+
+    <built-year>2028</built-year>
+    
+
+    <ready-quarter>1</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>4</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>10</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
+&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
+&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
+&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
+&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
+&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
+&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
+&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
+&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
+&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
+&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090605/HY3EYCEvxJq0HHwxNzU4MTY1NzQ1fGJiMTg4/planirovka_k2-48_7-3-48.7.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6907081">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darszhivopisnyysad.rqch.ru/</url>
+    
+
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
+    
+
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Хабаровский край</region>
+      
+
+      <locality-name>Хабаровск</locality-name>
+      
+
+      <sub-locality-name>Железнодорожный</sub-locality-name>
+      
+
+      <address>переулок Брянский, 4</address>
+      
+
+      <apartment>3203</apartment>
+      
+
+      <longitude>135.0744608858247</longitude>
+      
+
+      <latitude>48.52675164538737</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars Development</name>
+      
+
+      <category>агентство</category>
+      
+
+      <phone>4212 59-82-05</phone>
+      
+
+      <organization>Dars Development</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>7356135</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>48.7</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Живописный сад</building-name>
+    
+
+    <yandex-building-id>3589363</yandex-building-id>
+    
+
+    <yandex-house-id>4186326</yandex-house-id>
+    
+
+    <built-year>2028</built-year>
+    
+
+    <ready-quarter>1</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <rooms-type>раздельные</rooms-type>
+    
+
+
+    <rooms>2</rooms>
+    
+
+    <rooms-offered>2</rooms-offered>
+    
+
+    <floor>2</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>10</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
+&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
+&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
+&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
+&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
+&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
+&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
+&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
+&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
+&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
+&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090605/HY3EYCEvxJq0HHwxNzU4MTY1NzQ1fGJiMTg4/planirovka_k2-48_7-3-48.7.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="5092440">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darszhivopisnyysad.rqch.ru/</url>
+    
+
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
+    
+
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Хабаровский край</region>
+      
+
+      <locality-name>Хабаровск</locality-name>
+      
+
+      <sub-locality-name>Железнодорожный</sub-locality-name>
+      
+
+      <address>переулок Брянский, 8</address>
+      
+
+      <apartment>5107</apartment>
+      
+
+      <longitude>135.0714793484369</longitude>
+      
+
+      <latitude>48.526661918822775</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars Development</name>
+      
+
+      <category>агентство</category>
+      
+
+      <phone>4212 59-82-05</phone>
+      
+
+      <organization>Dars Development</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>5876374</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>33.17</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Живописный сад</building-name>
+    
+
+    <yandex-building-id>3589363</yandex-building-id>
+    
+
+    <yandex-house-id>4082807</yandex-house-id>
+    
+
+    <built-year>2026</built-year>
+    
+
+    <ready-quarter>4</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <studio>1</studio>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>1</floor>
+    
+
+    <ceiling-height>2.7000</ceiling-height>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>10</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>&lt;h2&gt;&lt;strong&gt;К&lt;/strong&gt;вартира из восьмого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/h2&gt;
+&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;20 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
+&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
+&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
+&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
+&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
+&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
+&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр, а также автомобильная дорога, которая соединит улицы Воронежская и Совхозная.&lt;/p&gt;
+&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м . При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/5092119/4234883/qgRpxDoACzpMT3wxNzgzNjc4MjgxfDc0M2E5/planirovka_k1-32_67-5-33.17.jpg</image>
+     
+
+
+  </offer>
+  
+
+
+  <offer internal-id="6907092">
+    
+
+    <category>квартира</category>
+    
+
+    <type>продажа</type>
+    
+
+    <deal-status>первичная продажа</deal-status>
+    
+
+    <property-type>жилая</property-type>
+    
+
+    <url>https://darszhivopisnyysad.rqch.ru/</url>
+    
+
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
+    
+
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
+    
+
+    <manually-added>да</manually-added>
+    
+
+    <location>
+      
+
+      <country>Россия</country>
+      
+
+      <region>Хабаровский край</region>
+      
+
+      <locality-name>Хабаровск</locality-name>
+      
+
+      <sub-locality-name>Железнодорожный</sub-locality-name>
+      
+
+      <address>переулок Брянский, 4</address>
+      
+
+      <apartment>3306</apartment>
+      
+
+      <longitude>135.0744608858247</longitude>
+      
+
+      <latitude>48.52675164538737</latitude>
+      
+
+    </location>
+    
+
+    <sales-agent>
+      
+
+      <name>Dars Development</name>
+      
+
+      <category>агентство</category>
+      
+
+      <phone>4212 59-82-05</phone>
+      
+
+      <organization>Dars Development</organization>
+      
+
+    </sales-agent>
+    
+
+    <price>
+      
+
+      <value>5254026</value>
+      
+
+      <currency>RUB</currency>
+      
+
+    </price>
+    
+
+    <area>
+      <value>30.35</value>
+      <unit>кв.м</unit>
+    </area>
+    
+
+    <building-name>ЖК Живописный сад</building-name>
+    
+
+    <yandex-building-id>3589363</yandex-building-id>
+    
+
+    <yandex-house-id>4186326</yandex-house-id>
+    
+
+    <built-year>2028</built-year>
+    
+
+    <ready-quarter>1</ready-quarter>
+    
+
+    <building-state>unfinished</building-state>
+    
+
+    <new-flat>1</new-flat>
+    
+
+    <studio>1</studio>
+    
+
+
+    <rooms>1</rooms>
+    
+
+    <rooms-offered>1</rooms-offered>
+    
+
+    <floor>3</floor>
+    
+
+    <open-plan>нет</open-plan>
+    
+
+    <renovation>без отделки</renovation>
+    
+
+    <lift>да</lift>
+    
+
+
+    <parking>нет</parking>
+    
+
+
+    <guarded-building>да</guarded-building>
+    
+
+
+    <bathroom-unit>раздельный</bathroom-unit>
+    
+
+
+    <floors-total>10</floors-total>
+    
+
+    <mortgage>1</mortgage>
+    
+
+    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
+&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
+&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
+&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
+&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
+&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
+&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
+&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
+&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
+&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
+&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
+    
+ 
+    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090600/HY3EYCEvxJqxHHwxNzU4MTY1NjMwfDczNzI3/planirovka_k1-30_35-3-30.35.png</image>
      
 
 
@@ -204,10 +929,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -385,10 +1110,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -566,10 +1291,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -747,10 +1472,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -928,10 +1653,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1109,10 +1834,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1292,10 +2017,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1473,10 +2198,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1654,10 +2379,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -1835,10 +2560,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2016,10 +2741,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2197,10 +2922,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2378,10 +3103,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2559,10 +3284,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2740,10 +3465,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -2921,10 +3646,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3102,10 +3827,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3283,10 +4008,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3464,10 +4189,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3645,10 +4370,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3826,10 +4551,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -3989,187 +4714,6 @@
   
 
 
-  <offer internal-id="6906924">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
-    
-
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>1205</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>6088852</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>35.51</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <studio>1</studio>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>2</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
-&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090536/HY3EYCEvx5m3HHwxNzU4MTU0MDQ3fDM5ZTM4/planirovka_k2-35_51-1-35.51.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907464">
     
 
@@ -4188,10 +4732,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4369,10 +4913,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4550,10 +5094,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4731,10 +5275,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -4912,10 +5456,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5093,10 +5637,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5274,10 +5818,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5455,10 +5999,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5636,10 +6180,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5817,10 +6361,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -5998,10 +6542,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6179,10 +6723,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6360,10 +6904,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6541,10 +7085,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6722,10 +7266,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -6903,10 +7447,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7084,10 +7628,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7265,10 +7809,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7446,10 +7990,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7627,10 +8171,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7808,10 +8352,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -7989,10 +8533,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8152,187 +8696,6 @@
   
 
 
-  <offer internal-id="6907077">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
-    
-
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>3106</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>5908548</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>34.87</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>1</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
-&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090603/HY3EYCEvxJqyHHwxNzU4MTY1NzExfDdhZjc5/planirovka_k2-34_87-3-34.87.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907078">
     
 
@@ -8351,10 +8714,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8532,10 +8895,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -8695,187 +9058,6 @@
   
 
 
-  <offer internal-id="6907081">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
-    
-
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>3203</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>7463566</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>48.7</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>2</rooms>
-    
-
-    <rooms-offered>2</rooms-offered>
-    
-
-    <floor>2</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
-&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4090605/HY3EYCEvxJq0HHwxNzU4MTY1NzQ1fGJiMTg4/planirovka_k2-48_7-3-48.7.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907086">
     
 
@@ -8894,10 +9076,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9075,10 +9257,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9256,10 +9438,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9419,187 +9601,6 @@
   
 
 
-  <offer internal-id="6907356">
-    
-
-    <category>квартира</category>
-    
-
-    <type>продажа</type>
-    
-
-    <deal-status>первичная продажа</deal-status>
-    
-
-    <property-type>жилая</property-type>
-    
-
-    <url>https://darszhivopisnyysad.rqch.ru/</url>
-    
-
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
-    
-
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
-    
-
-    <manually-added>да</manually-added>
-    
-
-    <location>
-      
-
-      <country>Россия</country>
-      
-
-      <region>Хабаровский край</region>
-      
-
-      <locality-name>Хабаровск</locality-name>
-      
-
-      <sub-locality-name>Железнодорожный</sub-locality-name>
-      
-
-      <address>переулок Брянский, 4</address>
-      
-
-      <apartment>6905</apartment>
-      
-
-      <longitude>135.0744608858247</longitude>
-      
-
-      <latitude>48.52675164538737</latitude>
-      
-
-    </location>
-    
-
-    <sales-agent>
-      
-
-      <name>Dars Development</name>
-      
-
-      <category>агентство</category>
-      
-
-      <phone>4212 59-82-05</phone>
-      
-
-      <organization>Dars Development</organization>
-      
-
-    </sales-agent>
-    
-
-    <price>
-      
-
-      <value>5944373</value>
-      
-
-      <currency>RUB</currency>
-      
-
-    </price>
-    
-
-    <area>
-      <value>34.74</value>
-      <unit>кв.м</unit>
-    </area>
-    
-
-    <building-name>ЖК Живописный сад</building-name>
-    
-
-    <yandex-building-id>3589363</yandex-building-id>
-    
-
-    <yandex-house-id>4186326</yandex-house-id>
-    
-
-    <built-year>2028</built-year>
-    
-
-    <ready-quarter>1</ready-quarter>
-    
-
-    <building-state>unfinished</building-state>
-    
-
-    <new-flat>1</new-flat>
-    
-
-    <rooms-type>раздельные</rooms-type>
-    
-
-
-    <rooms>1</rooms>
-    
-
-    <rooms-offered>1</rooms-offered>
-    
-
-    <floor>9</floor>
-    
-
-    <open-plan>нет</open-plan>
-    
-
-    <renovation>без отделки</renovation>
-    
-
-    <lift>да</lift>
-    
-
-
-    <parking>нет</parking>
-    
-
-
-    <guarded-building>да</guarded-building>
-    
-
-
-    <bathroom-unit>раздельный</bathroom-unit>
-    
-
-
-    <floors-total>10</floors-total>
-    
-
-    <mortgage>1</mortgage>
-    
-
-    <description>&lt;h1&gt;&lt;strong&gt;Подходит под все льготные программы кредитования!&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Квартира из четвертого дома в ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo;, 8 секций со сквозными холлами, коммерцией на 1 этаже и новым детским садом поблизости.&lt;/p&gt;
-&lt;p&gt;ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; &amp;amp;mdash; это гармония жизни с природой. &lt;strong&gt;Масштабный проект в перспективном динамично развивающемся районе по ул. Воронежская в Хабаровске.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13 домов комфортной высоты от 6 до 10 этажей&lt;/li&gt;
-&lt;li&gt;Современная монолитная технология строительства&lt;/li&gt;
-&lt;li&gt;Разные архитектурные решения для каждого дома в общей концепции&lt;/li&gt;
-&lt;li&gt;Вечерняя подсветка фасадов и ландшафта&lt;/li&gt;
-&lt;li&gt;Цветущие деревья и пешеходный бульвар&lt;/li&gt;
-&lt;li&gt;Дизайн-проект холлов с вниманием к деталям&lt;/li&gt;
-&lt;li&gt;При желании добавьте &lt;strong&gt;предчистовую или чистовую отделку&lt;/strong&gt;, на выбор&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Реализация ЖК &amp;amp;laquo;Живописный сад&amp;amp;raquo; проходит по договору комплексного развития территории в 2023-2030 гг. Параллельно строительству и сдаче жилых домов появятся &lt;strong&gt;новые детские сады и школа в районе&lt;/strong&gt;, комьюнити-центр.&lt;/p&gt;
-&lt;p&gt;Новая автомобильная дорога, соединила улицы Воронежская и Совхозная.&lt;/p&gt;
-&lt;p&gt;Доступны три опции отделки: предчистовая 18 000 ₽/кв.м, чистовая 30 000 ₽/кв.м. При вашем желании застройщик возьмёт обязательства по ремонту на себя, при этом стоимость можно включить в договор долевого участия и договор ипотечного кредитования.&lt;/p&gt;
-&lt;p&gt;&amp;amp;nbsp;&lt;/p&gt;</description>
-    
- 
-    <image tag="plan">https://macro.sbercrm.com/estate/files/get/6906918/4107895/HY3EYSgoypO0HHwxNzYxNjE0MzQ4fGYyMjA5/planirovka_k1-34_74-6-34.74.jpg</image>
-     
-
-
-  </offer>
-  
-
-
   <offer internal-id="6907102">
     
 
@@ -9618,10 +9619,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9799,10 +9800,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -9980,10 +9981,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10161,10 +10162,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10342,10 +10343,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10523,10 +10524,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-14T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-16T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10704,10 +10705,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:35+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-17T22:31:35+10:00</last-update-date>
+    <last-update-date>2026-11-18T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -10885,10 +10886,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:36+10:00</creation-date>
+    <creation-date>2026-11-15T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:36+10:00</last-update-date>
+    <last-update-date>2026-11-17T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
@@ -11066,10 +11067,10 @@
     <url>https://darszhivopisnyysad.rqch.ru/</url>
     
 
-    <creation-date>2026-11-13T22:31:36+10:00</creation-date>
+    <creation-date>2026-11-14T23:33:19+10:00</creation-date>
     
 
-    <last-update-date>2026-11-15T22:31:36+10:00</last-update-date>
+    <last-update-date>2026-11-16T23:33:19+10:00</last-update-date>
     
 
     <manually-added>да</manually-added>
